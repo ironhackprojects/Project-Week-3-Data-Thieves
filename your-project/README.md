@@ -1,16 +1,16 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Title of My Project
-*[Your Name]*
+*[A project so masculine it gets paid more]
 
-*[Your Cohort, Campus & Date]*
+*[Data Analysis, Lisbon, 7/2/2020]*
 
 ## Content
-- [Project Description](#project-description)
-- [Hypotheses / Questions](#hypotheses-/-questions)
-- [Dataset](#dataset)
-- [Workflow](#workflow)
-- [Organization](#organization)
+- [This project is a comparison between PT and GER online used car markets using a kaggle dataset and one produced via webscraping - a longer description needs to be written](#project-description)
+- [Processing](#hypotheses-/-questions)
+- [https://www.kaggle.com/orgesleka/used-cars-database](#german dataset)
+- [Processing](#workflow)
+- [Illuminati](#organization)
 - [Links](#links)
 
 <a name="project-description"></a>
@@ -45,6 +45,6 @@ How did you organize yourself? Did you use any tools?
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[https://github.com/josemrquintas/Project-Week-3-Data-Thieves] ##GITHUB 
+[Processing](https://slides.com/)  ##SLIDES
+[https://trello.com/b/kHtWDuXQ/used-cars-project] ##TRELLO  
