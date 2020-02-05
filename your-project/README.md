@@ -8,7 +8,7 @@
 ## Content
 - [This project is a comparison between PT and GER online used car markets using a kaggle dataset and one produced via webscraping - a longer description needs to be written](#project-description)
 - [Processing](#hypotheses-/-questions)
-- [https://www.kaggle.com/orgesleka/used-cars-database](#german dataset)
+- [https://www.kaggle.com/orgesleka/used-cars-database] (#german dataset)
 - [Processing](#workflow)
 - [Illuminati](#organization)
 - [Links](#links)
