@@ -7,7 +7,7 @@
 
 ## Content
 - [This project is a comparison between PT and GER online used car markets using a kaggle dataset and one produced via webscraping - a longer description needs to be written](#project-description)
-- [Processing](#hypotheses-/-questions)
+- [HYPOTHESES] (#hypotheses-/-questions)
 - [https://www.kaggle.com/orgesleka/used-cars-database] (#german dataset)
 - [Processing](#workflow)
 - [Illuminati](#organization)
@@ -21,8 +21,23 @@ Write a short description of your project: 3-5 sentences about what your project
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
 
++ Brand breakdown by year of of build 
+    -  more granular analysis (country build, etc)
+
++ Average Horsepower - Portugal vs Germany by build year
+    - Average Horsepower by category (focus on some categories)
+
++ What's the fuel type differences between portuguese and german vehicles
+    - What's the diesel penetration in both markets?
+    - Is the longevity of diesel vehicles different in Portugal and Germany?
+
++ Transmission type - Is it different on Portugal and Germany? by year of build
+    - by price bin
+    - by category
+
++ What's the frequency binning of cars by kilometer in both markets
+     - How many km does a car rides in Portugal vs Germany
 <a name="dataset"></a>
 
 ## Dataset
