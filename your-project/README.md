@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# USED CARS
 *[A project so masculine it gets paid more]
 
 *[Data Analysis, Lisbon, 7/2/2020]*
