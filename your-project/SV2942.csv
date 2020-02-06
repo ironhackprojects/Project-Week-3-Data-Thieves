@@ -1,0 +1,1281 @@
+,Ano de Registo,Classe do veículo,Combustível,Condição,ID,Marca,Potência,Quilómetros,Segmento,Série,Tipo de Caixa,Matrícula,Origem,Valor Fixo
+0,2013,Classe 1,Diesel,Usados,8048399330,Mercedes-Benz,136 cv,151 000 km,Sedan,Classe A,Manual,,,
+1,2009,Classe 1,Gasolina,Usados,8055541960,Porsche,385 cv,87 000 km,Coupé,911 (Todos),Automática,01-IJ-82,Nacional,
+2,2014,Classe 1,Diesel,Usados,8059906129,Peugeot,150 cv,131 000 km,Sedan,,Automática,,Importado,
+3,2018,,Eléctrico,Usados,8074358975,Citroën,67 cv,7 080 km,Carrinha,,Automática,85-VU-46,Nacional,Sim
+4,2017,Classe 1,Diesel,Usados,8074757170,MINI,85 cv,74 048 km,Carrinha,,Automática,30-SL-78,Nacional,
+5,2018,,Diesel,Usados,8074754446,Jeep,120 cv,35 000 km,SUV / TT,,Manual,,,
+6,2011,Classe 1,Diesel,Usados,8074758735,Citroën,71 cv,65 000 km,Citadino,,Manual,,Nacional,
+7,2010,Classe 1,Diesel,Usados,8074761416,Chevrolet,150 cv,39 999 km,Sedan,,Manual,,,
+8,2009,,Diesel,Usados,8072523604,Audi,170 cv,245 000 km,Coupé,,Manual,,Nacional,Sim
+9,2015,Classe 1,Eléctrico,Usados,8074757262,Nissan,109 cv,20 400 km,Utilitário,,Automática,,,
+10,2015,Classe 1,Diesel,Usados,8063855365,Mercedes-Benz,170 cv,136 500 km,Carrinha,Classe C,Manual,,,
+11,2017,Classe 1,Gasolina,Usados,8075708522,Ford,125 cv,35 000 km,Utilitário,,Manual,05-TV-42,Nacional,
+12,2017,Classe 1,Gasolina,Usados,8075708522,Ford,125 cv,35 000 km,Utilitário,,Manual,05-TV-42,Nacional,
+13,2015,,Diesel,Usados,8059400912,Audi,90 cv,123 000 km,Citadino,,Manual,38-ZC-53,,Sim
+14,2011,,Diesel,Usados,8075680143,Mercedes-Benz,110 cv,181 200 km,Utilitário,,,,,
+15,2001,,Diesel,Usados,8074758135,Mercedes-Benz,143 cv,436 000 km,Sedan,Classe C,,,,
+16,2014,,Gasolina,Usados,8074745510,SEAT,85 cv,81 000 km,Citadino,,Manual,,,
+17,2011,,Diesel,Usados,8074753353,Alfa Romeo,85 cv,115 000 km,Utilitário,,,,,
+18,2009,,Gasolina,Usados,8074757214,BMW,420 cv,80 000 km,Coupé,Série 3,Manual,,,
+19,2017,Classe 1,Diesel,Usados,8072568204,Mazda,105 cv,90 000 km,Utilitário,,Manual,70-SJ-89,Nacional,
+20,2017,,Diesel,Usados,8073952063,Mercedes-Benz,150 cv,37 000 km,Carrinha,Classe C,Automática,,Nacional,
+21,2012,,Diesel,Usados,8051129221,VW,140 cv,110 000 km,Cabrio,,Manual,,,
+22,2013,,Diesel,Usados,8068623906,Renault,90 cv,165 000 km,Citadino,,Manual,68-TD-58,,
+23,2015,,Diesel,Usados,8059400912,Audi,90 cv,123 000 km,Citadino,,Manual,38-ZC-53,,Sim
+24,2018,,Eléctrico,Usados,8074358975,Citroën,67 cv,7 080 km,Carrinha,,Automática,85-VU-46,Nacional,Sim
+25,2017,,Híbrido (Gasolina),Usados,8073916277,BMW,252 cv,79 904 km,Sedan,série-5,Automática,,,
+26,2011,,Diesel,Usados,8074845680,Mercedes-Benz,204 cv,279 000 km,Carrinha,Classe E,Automática,,,Sim
+27,2001,Classe 1,Diesel,Usados,8058056001,Saab,125 cv,180 000 km,Coupé,,Manual,,Nacional,
+28,2008,,Diesel,Usados,8072569522,Mercedes-Benz,150 cv,176 000 km,Carrinha,,Manual,,Nacional,
+29,2010,,Diesel,Usados,8074758304,Mercedes-Benz,160 cv,236 000 km,Sedan,Classe E,,,,Sim
+30,2011,Classe 1,Diesel,Usados,8065157802,Renault,130 cv,217 000 km,Monovolume,,Manual,,Importado,
+31,2013,,Diesel,Usados,8073443704,VW,160 cv,127 406 km,SUV / TT,,Manual,,,
+32,1998,Classe 1,Diesel,Usados,8072158718,Land Rover,120 cv,295 000 km,SUV / TT,,Manual,,,
+33,2011,,Diesel,Usados,8075680143,Mercedes-Benz,110 cv,181 200 km,Utilitário,,,,,
+34,2007,Classe 1,Diesel,Usados,8056258350,Mercedes-Benz,235 cv,159 000 km,Sedan,Classe S,Automática,,,
+35,2014,,Diesel,Usados,8064559111,BMW,184 cv,140 000 km,Coupé,Série 4,Automática,,Importado,
+36,2013,Classe 1,Diesel,Usados,8072177175,BMW,184 cv,52 138 km,SUV / TT,Série X,Manual,,Nacional,
+37,2018,Classe 1,Diesel,Usados,8075273467,Volvo,150 cv,24 945 km,Utilitário,,Manual,,,Sim
+38,2016,,Diesel,Usados,8074513395,BMW,190 cv,196 000 km,Sedan,Série 5,Automática,,,
+39,2017,Classe 1,Gasolina,Usados,8075275931,Audi,116 cv,45 432 km,SUV / TT,,Manual,,Nacional,
+40,2015,Classe 1,Diesel,Usados,8072602202,Peugeot,120 cv,186 500 km,Carrinha,,Automática,,Importado,Sim
+41,2012,,Diesel,Usados,8074116308,BMW,163 cv,174 500 km,Sedan,Série 3,Manual,,,
+42,2005,,Diesel,Usados,8073711599,BMW,218 cv,219 000 km,SUV / TT,Série X,Automática,,,
+43,2014,Classe 1,Diesel,Usados,8075745751,Mercedes-Benz,170 cv,85 547 km,SUV / TT,Classe GLK,Automática,,Nacional,Sim
+44,2019,Classe 1,Diesel,Usados,8062817952,BMW,190 cv,59 000 km,Coupé,Série 6,Automática,,Nacional,
+45,2010,,Diesel,Usados,8074752719,BMW,204 cv,240 000 km,Carrinha,Série 5,,,,
+46,2018,Classe 1,Diesel,Usados,8073438580,Mercedes-Benz,204 cv,34 000 km,SUV / TT,Classe GLC,Automática,,,
+47,2013,,Diesel,Usados,8073440923,Audi,177 cv,92 000 km,Carrinha,,Manual,,Nacional,
+48,2018,,Diesel,Usados,8062820974,BMW,400 cv,16 000 km,SUV / TT,Série X,Automática,,,
+49,2015,Classe 1,Diesel,Usados,8070682232,Mercedes-Benz,170 cv,135 000 km,Carrinha,Classe C,Manual,,,
+50,2011,Classe 1,Diesel,Usados,8073085290,Chevrolet,163 cv,150 000 km,Sedan,,Manual,,Nacional,Sim
+51,2016,Classe 1,Gasolina,Usados,8063099208,Peugeot,82 cv,42 500 km,Citadino,,Manual,,,
+52,2012,,Diesel,Usados,8073956728,Porsche,250 cv,157 000 km,Sedan,,,,,
+53,2015,Classe 1,Diesel,Usados,8074296690,SEAT,105 cv,36 000 km,Carrinha,,Manual,66-PZ-37,Nacional,
+54,2015,,Diesel,Usados,8069590773,Peugeot,110 cv,150 000 km,Citadino,,Manual,,,Sim
+55,2007,Classe 1,Diesel,Usados,8074841272,BMW,177 cv,311 641 km,Carrinha,Série 3,Automática,,,
+56,2006,Classe 1,Gasolina,Usados,8073439947,BMW,507 cv,75 000 km,Cabrio,Série 6,Automática,,Nacional,
+57,2009,,Diesel,Usados,8074754474,Toyota,90 cv,120 000 km,Utilitário,,Manual,,,
+58,2011,,Diesel,Usados,8071459940,MINI,110 cv,120 000 km,Citadino,,Manual,,,
+59,2011,Classe 1,Diesel,Usados,8073085290,Chevrolet,163 cv,150 000 km,Sedan,,Manual,,Nacional,Sim
+60,2017,,Diesel,Usados,8072039485,Fiat,120 cv,24 500 km,SUV / TT,,Manual,,Nacional,Sim
+61,2012,,Diesel,Usados,8075632052,BMW,245 cv,155 km,SUV / TT,Série X,Automática,,,
+62,2014,Classe 1,Diesel,Usados,8075745751,Mercedes-Benz,170 cv,85 547 km,SUV / TT,Classe GLK,Automática,,Nacional,Sim
+63,2015,Classe 1,Diesel,Usados,8074296690,SEAT,105 cv,36 000 km,Carrinha,,Manual,66-PZ-37,Nacional,
+64,2016,,Diesel,Usados,8074513395,BMW,190 cv,196 000 km,Sedan,Série 5,Automática,,,
+65,2016,Classe 1,Diesel,Usados,8074753240,Volvo,150 cv,137 200 km,Utilitário,,Automática,,Nacional,
+66,2015,Classe 1,Diesel,Usados,8074509242,Toyota,90 cv,150 000 km,Carrinha,,Manual,,,
+67,2012,,Diesel,Usados,8075632052,BMW,245 cv,155 km,SUV / TT,Série X,Automática,,,
+68,2001,Classe 1,Diesel,Usados,8058056001,Saab,125 cv,180 000 km,Coupé,,Manual,,Nacional,
+69,2008,Classe 1,Diesel,Usados,8073777040,Renault,85 cv,147 000 km,Citadino,,Manual,,,
+70,2017,Classe 1,Diesel,Usados,8069614766,Renault,110 cv,85 230 km,Carrinha,,Manual,,,Sim
+71,2012,,Diesel,Usados,8070061801,Mercedes-Benz,109 cv,55 000 km,Utilitário,Classe B,Automática,,Nacional,Sim
+72,2013,,Diesel,Usados,8073956513,Renault,90 cv,159 000 km,Carrinha,,Manual,,,
+73,2012,,Gasolina,Usados,8074127421,MINI,184 cv,72 000 km,Cabrio,,Manual,,,
+74,2014,,Diesel,Usados,8051852531,Volvo,115 cv,146 230 km,Carrinha,,Manual,,,Sim
+75,1989,Classe 1,Gasolina,Usados,8073905707,BMW,260 cv,96 500 km,Coupé,serie-m,Manual,98-79-QE,Importado,Sim
+76,2015,Classe 1,Diesel,Usados,8073645597,Mercedes-Benz,136 cv,133 654 km,Carrinha,Classe CLA,Automática,,,Sim
+77,2000,Classe 2,Diesel,Usados,8074623555,Land Rover,136 cv,277 000 km,SUV / TT,,Manual,,Nacional,
+78,2014,Classe 1,Diesel,Usados,8074628989,Maserati,275 cv,76 000 km,Sedan,,Automática,,Importado,
+79,2003,Classe 1,Gasolina,Usados,8073956020,Audi,102 cv,225 000 km,Utilitário,,Manual,75-07-VJ,Nacional,Sim
+80,2018,Classe 1,Híbrido (Gasolina),Usados,8053782018,Mercedes-Benz,295 cv,60 000 km,Carrinha,Classe C,Automática,,Importado,
+81,2016,Classe 1,Diesel,Usados,8073954617,VW,150 cv,125 500 km,Monovolume,,Manual,02-SH-88,Nacional,
+82,2015,,Diesel,Usados,8069725565,Audi,110 cv,109 000 km,Utilitário,,,,,Sim
+83,2005,Classe 1,Diesel,Usados,8073772846,BMW,231 cv,279 000 km,Sedan,Série 5,Automática,,Nacional,
+84,2008,,Diesel,Usados,8074745926,Opel,150 cv,277 000 km,Carrinha,,Manual,,,
+85,2018,Classe 1,Diesel,Usados,8070603527,Opel,95 cv,29 100 km,Citadino,,Manual,40-UE-70,Nacional,Sim
+86,2017,Classe 1,Diesel,Usados,8063095984,BMW,116 cv,52 280 km,Citadino,Série 1,Manual,99-TC-98,Nacional,
+87,2018,Classe 1,Gasolina,Usados,8043938532,BMW,450 cv,18 000 km,Cabrio,Série 4,Automática,,Nacional,
+88,2016,Classe 1,Gasolina,Usados,8066230390,Mercedes-Benz,250 cv,26 000 km,Sedan,Classe CLA,Manual,,,Sim
+89,2017,,Híbrido (Gasolina),Usados,8047040045,BMW,224 cv,52 000 km,Monovolume,Série 2,Automática,,,
+90,2000,,Gasolina,Usados,8075262860,Porsche,320 cv,180 000 km,Coupé,911 (Todos),,,,
+91,2011,,Diesel,Usados,8070573391,Audi,143 cv,115 394 km,Carrinha,,Automática,,,Sim
+92,2014,Classe 1,Híbrido (Diesel),Usados,8073954587,Volvo,285 cv,157 000 km,Carrinha,,Automática,,Importado,
+93,2006,Classe 1,Diesel,Usados,8074747606,Mazda,110 cv,231 423 km,Utilitário,,Manual,,Nacional,
+94,2011,Classe 1,Diesel,Usados,8073773797,Renault,85 cv,274 000 km,Citadino,,Manual,,Nacional,
+95,2001,,Diesel,Usados,8073953215,Chrysler,105 cv,261 000 km,Monovolume,,,,,
+96,2008,Classe 1,Diesel,Usados,8073954387,Smart,45 cv,123 500 km,Cabrio,,Semi-automática,,Importado,
+97,2015,Classe 1,Diesel,Usados,8071927486,Renault,75 cv,134 000 km,Citadino,,Manual,,Importado,
+98,2017,Classe 2,Diesel,Usados,8060393132,Ford,136 cv,114 000 km,Carrinha,,Manual,,Nacional,Sim
+99,2008,Classe 1,Diesel,Usados,8072002685,BMW,143 cv,280 000 km,Coupé,Série 1,Manual,,Importado,
+100,2014,Classe 1,Eléctrico,Usados,8072810721,Tesla,421 cv,131 900 km,Sedan,,Automática,,Importado,
+101,2007,Classe 1,Diesel,Usados,8071920955,Kia,140 cv,164 000 km,SUV / TT,,Manual,,Nacional,
+102,1990,,Gasolina,Usados,8068891613,Nissan,175 cv,210 km,Coupé,,,,,
+103,2011,,Diesel,Usados,8074746005,SEAT,75 cv,160 000 km,Carrinha,,,,,
+104,2010,Classe 1,Diesel,Usados,8074112574,Opel,125 cv,121 000 km,Utilitário,,Manual,,,
+105,2015,Classe 1,Diesel,Usados,8064330491,Peugeot,120 cv,95 000 km,Carrinha,,Manual,,,Sim
+106,2015,Classe 1,Diesel,Usados,8075740245,BMW,150 cv,88 450 km,Carrinha,Série 3,Automática,70-QN-01,Nacional,
+107,2010,Classe 1,Gasolina,Usados,8074501437,Honda,90 cv,132 000 km,Citadino,,Manual,,Nacional,
+108,2018,,Diesel,Usados,8074747298,Fiat,125 cv,24 500 km,Monovolume,,Manual,,Nacional,
+109,2016,,Híbrido (Gasolina),Usados,8068395348,Toyota,198 cv,62 000 km,SUV / TT,,Automática,,Nacional,
+110,2011,Classe 1,Diesel,Usados,8067074348,Renault,90 cv,225 000 km,Citadino,,Manual,,,
+111,2006,Classe 1,Diesel,Usados,8073772483,Audi,170 cv,247 000 km,Utilitário,,Automática,,Nacional,
+112,2018,Classe 1,Diesel,Usados,8070603527,Opel,95 cv,29 100 km,Citadino,,Manual,40-UE-70,Nacional,Sim
+113,2018,Classe 1,Híbrido (Gasolina),Usados,8053782018,Mercedes-Benz,295 cv,60 000 km,Carrinha,Classe C,Automática,,Importado,
+114,2014,Classe 1,Eléctrico,Usados,8072810721,Tesla,421 cv,131 900 km,Sedan,,Automática,,Importado,
+115,2015,Classe 1,Diesel,Usados,8075740245,BMW,150 cv,88 450 km,Carrinha,Série 3,Automática,70-QN-01,Nacional,
+116,2015,Classe 1,Diesel,Usados,8073911299,Audi,150 cv,53 000 km,Sedan,,Manual,xx-QO-XX,Nacional,Sim
+117,2014,,Diesel,Usados,8065232665,Jeep,1 500 cv,109 000 km,SUV / TT,,Automática,,,
+118,2015,Classe 1,Diesel,Usados,8070371295,Peugeot,120 cv,162 000 km,Carrinha,,Manual,82-VU-39,,Sim
+119,2009,Classe 1,Diesel,Usados,8070317971,BMW,245 cv,309 000 km,Sedan,Série 5,Automática,,Nacional,
+120,2002,Classe 1,Gasolina,Usados,8074695233,Opel,75 cv,166 000 km,Citadino,,Manual,,Nacional,
+121,2018,,Híbrido (Gasolina),Usados,8053549210,Toyota,122 cv,35 000 km,Sedan,,Automática,75-VG-25,Nacional,
+122,2017,,Diesel,Usados,8069256918,Renault,110 cv,92 000 km,Carrinha,,Automática,,,
+123,1990,Classe 1,Gasolina,Usados,8072318728,Opel,70 cv,96 000 km,Citadino,,Manual,,,Sim
+124,2004,Classe 1,GPL,Usados,8065908873,Mercedes-Benz,163 cv,269 342 km,Coupé,Classe CLK,Automática,,,Sim
+125,2014,Classe 1,Diesel,Usados,8068404097,BMW,143 cv,130 000 km,Carrinha,Série 3,Automática,,Nacional,Sim
+126,2018,Classe 1,Híbrido (Gasolina),Usados,8064192780,Toyota,101 cv,47 900 km,Citadino,,Automática,95-UT-20,Nacional,
+127,2015,,Híbrido (Gasolina),Usados,8072135838,Audi,150 cv,126 000 km,Utilitário,,Automática,,,Sim
+128,2017,,Diesel,Usados,8069256918,Renault,110 cv,92 000 km,Carrinha,,Automática,,,
+129,2012,Classe 1,Diesel,Usados,8053392891,Renault,95 cv,88 089 km,Citadino,,Manual,,,
+130,2013,Classe 1,Diesel,Usados,8074744919,VW,140 cv,170 000 km,Carrinha,,Manual,00-SC-00,,
+131,2007,Classe 1,Gasolina,Usados,8070909977,Smart,71 cv,47 640 km,Pequeno citadino,,Semi-automática,,Nacional,
+132,2007,,Diesel,Usados,8073951543,Mazda,105 cv,187 517 km,Carrinha,,,,,
+133,2007,Classe 1,Diesel,Usados,8069532400,Skoda,140 cv,270 000 km,Carrinha,,Manual,,Nacional,
+134,2008,Classe 1,Diesel,Usados,8069265716,Ford,110 cv,217 000 km,Carrinha,,Manual,,,
+135,2008,,Diesel,Usados,8074106429,BMW,177 cv,119 000 km,Sedan,Série 5,Manual,23-GB-58,Nacional,
+136,2017,Classe 2,Diesel,Usados,8060393132,Ford,136 cv,114 000 km,Carrinha,,Manual,,Nacional,Sim
+137,2019,Classe 1,Diesel,Usados,8067056838,Mercedes-Benz,109 cv,18 000 km,Sedan,Classe CLA,Automática,94-XR-48,Nacional,Sim
+138,2014,Classe 1,Diesel,Usados,8062081793,Opel,136 cv,72 420 km,Carrinha,,Manual,90-PI-35,Nacional,
+139,2017,Classe 1,Diesel,Usados,8036931563,Mercedes-Benz,286 cv,33 000 km,Sedan,Classe S,Automática,,,
+140,2009,,Diesel,Usados,8074742840,Mazda,140 cv,317 000 km,Sedan,,Automática,,,Sim
+141,2015,,Diesel,Usados,8075643356,Jaguar,163 cv,127 000 km,Sedan,,,,,
+142,2003,,Diesel,Usados,8075256243,SEAT,75 cv,259 000 km,Citadino,,,,,
+143,2014,Classe 1,Diesel,Usados,8062081793,Opel,136 cv,72 420 km,Carrinha,,Manual,90-PI-35,Nacional,
+144,2019,,Diesel,Usados,8073288906,Mercedes-Benz,136 cv,12 000 km,Carrinha,Classe CLA,Automática,24-XB-05,,Sim
+145,2012,Classe 1,Diesel,Usados,8067740942,Audi,177 cv,200 000 km,Carrinha,,Automática,,,Sim
+146,2018,Classe 1,Diesel,Usados,8071297095,Mercedes-Benz,116 cv,25 700 km,Utilitário,Classe A,Automática,86-VS-66,Nacional,Sim
+147,2015,,Diesel,Usados,8075643356,Jaguar,163 cv,127 000 km,Sedan,,,,,
+148,2017,Classe 1,Diesel,Usados,8074109238,Audi,190 cv,70 000 km,SUV / TT,,Automática,07-SX-21,Nacional,
+149,2007,Classe 1,Gasolina,Usados,8070909977,Smart,71 cv,47 640 km,Pequeno citadino,,Semi-automática,,Nacional,
+150,2017,Classe 1,Diesel,Usados,8070856890,Peugeot,115 cv,70 000 km,Monovolume,,Manual,,Nacional,
+151,2014,Classe 1,Gasolina,Usados,8064537253,Fiat,69 cv,47 721 km,Cabrio,,Manual,33-ZH-58,,
+152,2015,,Diesel,Usados,8072383414,Nissan,110 cv,81 000 km,SUV / TT,,,,,
+153,2006,Classe 1,Diesel,Usados,8074740921,BMW,163 cv,331 000 km,Carrinha,Série 3,Manual,,Importado,
+154,2000,Classe 1,Diesel,Usados,8073528816,Citroën,50 cv,320 000 km,Citadino,,Manual,,,
+155,2015,Classe 1,Diesel,Usados,8073552766,BMW,116 cv,36 236 km,Utilitário,Série 1,Automática,,,Sim
+156,2006,Classe 1,Diesel,Usados,8073772483,Audi,170 cv,247 000 km,Utilitário,,Automática,,Nacional,
+157,2014,,Gasolina,Usados,8064449585,Mercedes-Benz,156 cv,129 000 km,Sedan,Classe C,,,,
+158,2009,Classe 1,Gasolina,Usados,8060477315,SEAT,102 cv,140 000 km,Sedan,,Manual,,,Sim
+159,2010,Classe 1,Gasolina,Usados,8073773518,Nissan,115 cv,209 000 km,SUV / TT,,Manual,,Nacional,
+160,2016,Classe 1,Diesel,Usados,8075294215,Opel,110 cv,57 670 km,Carrinha,,Manual,,Nacional,Sim
+161,2014,Classe 1,Diesel,Usados,8068414661,Mercedes-Benz,204 cv,94 000 km,Sedan,Classe C,Automática,,Nacional,
+162,2018,,Eléctrico,Usados,8074500630,BMW,170 cv,10 000 km,Utilitário,Série i,Automática,00-00-00,,Sim
+163,2008,,Diesel,Usados,8072270902,Smart,45 cv,115 000 km,Pequeno citadino,,Automática,,Importado,Sim
+164,2011,Classe 1,Gasolina,Usados,8075516702,Fiat,85 cv,124 900 km,Pequeno citadino,,Manual,,,
+165,2007,Classe 1,Diesel,Usados,8072455842,Renault,150 cv,198 587 km,Sedan,,Manual,,Nacional,
+166,2015,Classe 1,Diesel,Usados,8074279001,VW,110 cv,108 000 km,Carrinha,,Manual,,Nacional,Sim
+167,2017,Classe 1,Diesel,Usados,8071943183,BMW,190 cv,67 000 km,Carrinha,Série 3,Automática,,,
+168,2006,Classe 1,Gasolina,Usados,8060434442,Mercedes-Benz,70 cv,52 000 km,Utilitário,Classe A,Manual,,Nacional,
+169,2019,Classe 1,Híbrido (Gasolina),Usados,8074762309,Toyota,180 cv,400 km,SUV / TT,,Automática,,Nacional,
+170,2009,,Diesel,Usados,8049081786,BMW,143 cv,178 000 km,Cabrio,Série 1,Manual,,Nacional,
+171,2011,Classe 1,Diesel,Usados,8075683301,BMW,313 cv,159 791 km,Sedan,Série 5,Automática,,Nacional,
+172,2015,Classe 1,Diesel,Usados,8059288751,Nissan,130 cv,170 000 km,SUV / TT,,Automática,,,
+173,2014,Classe 1,Diesel,Usados,8069928974,Kia,128 cv,99 000 km,Carrinha,,Manual,,Nacional,
+174,2002,,Diesel,Usados,8066324749,Audi,180 cv,173 000 km,Carrinha,,Automática,,,
+175,2010,,Diesel,Usados,8070649931,Opel,95 cv,184 413 km,Citadino,,,,,Sim
+176,2015,Classe 1,Híbrido (Gasolina),Usados,8072606476,Audi,204 cv,149 000 km,Citadino,,Automática,,,
+177,2004,,Gasolina,Usados,8064731708,Mazda,192 cv,123 350 km,Coupé,,Manual,,,
+178,2012,Classe 1,Diesel,Usados,8074105038,Opel,130 cv,105 500 km,Sedan,,Manual,,Nacional,
+179,2014,Classe 1,Diesel,Usados,8073618048,Toyota,90 cv,119 500 km,Carrinha,,Manual,,Nacional,
+180,2015,Classe 1,Diesel,Usados,8074279001,VW,110 cv,108 000 km,Carrinha,,Manual,,Nacional,Sim
+181,2012,Classe 1,Diesel,Usados,8068306855,BMW,284 cv,230 000 km,Carrinha,Série 5,Automática,,,
+182,2011,Classe 1,Gasolina,Usados,8075516702,Fiat,85 cv,124 900 km,Pequeno citadino,,Manual,,,
+183,1975,,Gasolina,Usados,8069236184,BMW,85 cv,13 000 km,Coupé,,,,,
+184,2001,,Diesel,Usados,8072587716,Jeep,140 cv,218 000 km,SUV / TT,,,,,
+185,2018,,Eléctrico,Usados,8074500630,BMW,170 cv,10 000 km,Utilitário,Série i,Automática,00-00-00,,Sim
+186,2011,,Diesel,Usados,8073948785,BMW,143 cv,195 000 km,Coupé,Série 1,,,,
+187,2012,,Diesel,Usados,8073429790,Mercedes-Benz,204 cv,126 000 km,Coupé,Classe E,Automática,,,
+188,2011,Classe 1,Diesel,Usados,8075683301,BMW,313 cv,159 791 km,Sedan,Série 5,Automática,,Nacional,
+189,2016,,Diesel,Usados,8072574175,Peugeot,120 cv,90 000 km,Carrinha,,Manual,,,
+190,2013,Classe 1,Diesel,Usados,8069263234,BMW,184 cv,76 000 km,Sedan,Série 3,Automática,98-XA-19,Importado,Sim
+191,2018,,Diesel,Usados,8073946054,BMW,190 cv,18 773 km,Utilitário,Série 1,Automática,,,Sim
+192,2007,Classe 1,Diesel,Usados,8074104061,BMW,204 cv,215 000 km,Utilitário,Série 1,Manual,,,Sim
+193,2006,,GPL,Usados,8075150418,Hummer,323 cv,89 000 km,SUV / TT,,,,,Sim
+194,2013,Classe 1,Diesel,Usados,8074991355,Hyundai,75 cv,87 000 km,Citadino,,Manual,,Nacional,Sim
+195,2004,Classe 1,Gasolina,Usados,8074741333,VW,75 cv,148 000 km,Utilitário,,Manual,,Nacional,
+196,2011,Classe 1,Diesel,Usados,8074693367,BMW,184 cv,150 000 km,SUV / TT,Série X,Automática,,Nacional,
+197,2011,Classe 1,Diesel,Usados,8073795284,Mercedes-Benz,204 cv,191 000 km,Carrinha,Classe E,Automática,,Nacional,
+198,2013,Classe 1,Gasolina,Usados,8054393243,Fiat,70 cv,57 400 km,Citadino,,Manual,,,
+199,2009,,Diesel,Usados,8072941729,Renault,110 cv,135 000 km,Utilitário,,,,,
+200,2017,Classe 1,Diesel,Usados,8073925890,Renault,110 cv,58 000 km,Carrinha,,Manual,00-UX-00,Importado,Sim
+201,2014,,Diesel,Usados,8075646848,Smart,71 cv,30 000 km,Utilitário,,,,,
+202,2001,,Diesel,Usados,8072288669,Hyundai,110 cv,260 000 km,SUV / TT,,,,,
+203,2007,Classe 1,Diesel,Usados,8073917604,Smart,45 cv,140 000 km,Pequeno citadino,,Automática,,,
+204,2004,Classe 1,Gasolina,Usados,8066656577,BMW,228 cv,74 000 km,Cabrio,Série Z,Automática,,Nacional,
+205,2012,,Diesel,Usados,8074710324,Renault,110 cv,174 000 km,Utilitário,,,,Nacional,
+206,2016,Classe 1,Gasolina,Usados,8047887334,Honda,100 cv,35 987 km,Utilitário,,Manual,,,Sim
+207,2010,Classe 1,Gasolina,Usados,8071698310,VW,160 cv,174 000 km,Coupé,,Manual,,,
+208,2006,Classe 1,Diesel,Usados,8074712137,VW,150 cv,199 000 km,Monovolume,,,,,
+209,2017,Classe 1,Diesel,Usados,8020657788,Renault,130 cv,65 000 km,Carrinha,,Manual,44-TE-92,Nacional,Sim
+210,2010,Classe 1,Diesel,Usados,8072814626,Mazda,112 cv,200 000 km,Sedan,,Manual,,Nacional,
+211,2015,Classe 1,Diesel,Usados,8075611039,Skoda,90 cv,68 100 km,Carrinha,,Manual,,Nacional,Sim
+212,2009,Classe 1,Gasolina,Usados,8073728151,MINI,95 cv,130 000 km,Citadino,,Manual,..-zn-..,Importado,
+213,2019,Classe 1,Diesel,Usados,8069249520,Peugeot,180 cv,17 960 km,Monovolume,,Automática,,Nacional,
+214,2017,Classe 1,Diesel,Usados,8074714048,Renault,110 cv,52 000 km,Carrinha,,Manual,,,
+215,2011,,Diesel,Usados,8058327174,BMW,165 cv,220 000 km,Carrinha,Série 3,Manual,55-MM-52,Nacional,
+216,2016,Classe 1,Gasolina,Usados,8047887334,Honda,100 cv,35 987 km,Utilitário,,Manual,,,Sim
+217,2009,,Diesel,Usados,8055635625,Audi,170 cv,130 000 km,Sedan,,,,,Sim
+218,2016,Classe 1,Gasolina,Usados,8074793811,Ford,100 cv,31 979 km,Citadino,,Automática,,Nacional,
+219,2016,,Diesel,Usados,8067542568,BMW,116 cv,52 000 km,Sedan,Série 1,,,,Sim
+220,2015,,Diesel,Usados,8072989130,Renault,160 cv,105 000 km,Monovolume,,,,,
+221,2012,Classe 1,Diesel,Usados,8056282033,BMW,184 cv,122 400 km,Carrinha,Série 5,Automática,,,
+222,2013,,Diesel,Usados,8062705383,Renault,90 cv,153 000 km,Citadino,,Manual,,,
+223,2012,Classe 1,Diesel,Usados,8059852103,Peugeot,115 cv,247 000 km,Citadino,,Manual,,Nacional,
+224,2016,Classe 1,Diesel,Usados,8075196579,BMW,190 cv,48 000 km,Sedan,Série 4,Automática,,,
+225,2012,Classe 1,Diesel,Usados,6009218159,Opel,130 cv,147 000 km,Carrinha,,Manual,,Importado,
+226,2015,Classe 1,Diesel,Usados,8075611039,Skoda,90 cv,68 100 km,Carrinha,,Manual,,Nacional,Sim
+227,2014,,Diesel,Usados,8075646848,Smart,71 cv,30 000 km,Utilitário,,,,,
+228,2016,Classe 1,Diesel,Usados,8071949089,Mercedes-Benz,109 cv,84 234 km,SUV / TT,Classe GLA,Manual,,,Sim
+229,2018,Classe 1,Diesel,Usados,8056843191,Renault,130 cv,40 000 km,Sedan,,Manual,,Nacional,Sim
+230,2014,Classe 1,Diesel,Usados,8075187567,Mercedes-Benz,177 cv,44 000 km,Utilitário,Classe A,Automática,86-OZ-02,Nacional,
+231,2014,Classe 1,Diesel,Usados,8072829086,Audi,90 cv,81 000 km,Citadino,,Manual,,Nacional,
+232,2000,Classe 2,Diesel,Usados,8067896347,Land Rover,125 cv,193 000 km,SUV / TT,,Manual,,Nacional,Sim
+233,2006,Classe 1,Diesel,Usados,8072603078,Mercedes-Benz,235 cv,146 950 km,Sedan,Classe S,Automática,,Nacional,Sim
+234,2007,Classe 1,Diesel,Usados,8075214217,VW,140 cv,281 350 km,Carrinha,,Manual,,,
+235,2009,,Diesel,Usados,8075213003,Chatenet,5 cv,6 200 km,Pequeno citadino,,Automática,,,
+236,2015,,Diesel,Usados,8072989130,Renault,160 cv,105 000 km,Monovolume,,,,,
+237,2004,Classe 1,Diesel,Usados,8074713283,VW,130 cv,270 000 km,Sedan,,Manual,,Nacional,
+238,2017,Classe 1,Gasolina,Usados,8072612061,Mercedes-Benz,184 cv,33 000 km,Coupé,Classe C,Automática,,,
+239,2014,,Diesel,Usados,8062975606,BMW,116 cv,94 728 km,Citadino,Série 1,,,,
+240,2009,Classe 1,Diesel,Usados,8074792252,MINI,110 cv,203 000 km,Utilitário,,Manual,,Nacional,
+241,2000,Classe 1,Diesel,Usados,8071596162,Peugeot,90 cv,345 680 km,Carrinha,,Manual,,Nacional,Sim
+242,2008,Classe 1,Diesel,Usados,8074707624,Mazda,140 cv,114 000 km,Sedan,,Manual,74-GX-06,Nacional,
+243,2017,Classe 1,Diesel,Usados,8020657788,Renault,130 cv,65 000 km,Carrinha,,Manual,44-TE-92,Nacional,Sim
+244,2007,,Diesel,Usados,8073048911,BMW,300 cv,170 000 km,SUV / TT,Série X,Automática,,Nacional,Sim
+245,2017,,Diesel,Usados,8073448757,Peugeot,100 cv,106 071 km,Carrinha,,Manual,47-TN-38,Nacional,
+246,2015,,Diesel,Usados,8075641336,VW,110 cv,192 000 km,Carrinha,,,,,
+247,2018,,Diesel,Usados,8073913822,Honda,125 cv,41 000 km,Utilitário,,Manual,,,Sim
+248,2011,Classe 2,Diesel,Usados,8070126786,BMW,306 cv,118 000 km,SUV / TT,Série X,Automática,,Nacional,
+249,2010,,Diesel,Usados,8073911555,Volvo,163 cv,218 000 km,SUV / TT,,,,,
+250,2017,,Gasolina,Usados,8060829251,Renault,90 cv,28 928 km,Citadino,,Manual,95-TC-50,Nacional,Sim
+251,2018,Classe 1,Gasolina,Usados,8074299849,Renault,90 cv,36 100 km,Citadino,,Manual,,Nacional,Sim
+252,2007,Classe 1,Gasolina,Usados,8075619880,Chevrolet,94 cv,99 896 km,Citadino,,Manual,,Nacional,
+253,2015,Classe 1,Diesel,Usados,8071215761,BMW,177 cv,126 000 km,Carrinha,Série 5,Automática,,Nacional,
+254,2017,,Diesel,Usados,8073448029,Renault,90 cv,54 663 km,Carrinha,,Manual,71-TE-72,Nacional,
+255,2007,,Diesel,Usados,8073910081,Opel,90 cv,212 579 km,Carrinha,,,,,
+256,2012,Classe 1,Diesel,Usados,8074709273,Opel,125 cv,136 000 km,Carrinha,,,,,
+257,1970,,Gasolina,Usados,8032070289,Saab,65 cv,165 532 km,Coupé,,Manual,,,
+258,2007,,Diesel,Usados,8074707539,Audi,140 cv,200 000 km,Citadino,,Manual,,Nacional,
+259,2015,,Diesel,Usados,8073404094,Ford,120 cv,142 609 km,Carrinha,,,19-QH-88,Nacional,
+260,2009,,Diesel,Usados,8047101453,Audi,177 cv,151 000 km,Coupé,,Manual,,Nacional,
+261,2015,Classe 1,Diesel,Usados,8071215761,BMW,177 cv,126 000 km,Carrinha,Série 5,Automática,,Nacional,
+262,2007,Classe 1,Gasolina,Usados,8075619880,Chevrolet,94 cv,99 896 km,Citadino,,Manual,,Nacional,
+263,2011,,Diesel,Usados,8073912229,Audi,240 cv,297 500 km,Sedan,,,,,
+264,2012,Classe 1,Diesel,Usados,8072603617,Audi,143 cv,140 000 km,SUV / TT,,Manual,,,Sim
+265,2015,Classe 1,Gasolina,Usados,8067678408,Toyota,69 cv,55 200 km,Citadino,,Manual,,,
+266,2018,Classe 1,Gasolina,Usados,8074299849,Renault,90 cv,36 100 km,Citadino,,Manual,,Nacional,Sim
+267,2002,,Diesel,Usados,8063508574,Mercedes-Benz,150 cv,380 000 km,Sedan,Classe C,,,,
+268,2016,,Híbrido (Gasolina),Usados,8075120617,Porsche,416 cv,86 000 km,SUV / TT,,Automática,,Nacional,
+269,2019,Classe 1,Gasolina,Usados,8065843265,SEAT,150 cv,1 545 km,Citadino,,Manual,,Nacional,Sim
+270,1983,,Gasolina,Usados,8075210961,Mercedes-Benz,180 cv,242 000 km,Cabrio,Classe SL,,,,
+271,1969,,Gasolina,Usados,8065963178,Triumph,140 cv,45 000 km,Cabrio,,,,,
+272,2018,,Diesel,Usados,8073443670,Fiat,120 cv,59 519 km,Carrinha,,Manual,50-VE-42,Nacional,
+273,1971,,Gasolina,Usados,8056531023,Datsun,150 cv,70 000 km,Coupé,,Manual,,Nacional,Sim
+274,2012,,Diesel,Usados,8072065133,Citroën,70 cv,124 000 km,Utilitário,,,,,
+275,2016,Classe 2,Diesel,Usados,8072566630,Opel,110 cv,149 904 km,Utilitário,,Manual,,Nacional,
+276,2005,,Diesel,Usados,8073904405,Opel,125 cv,250 km,Citadino,,,,,
+277,2011,,Diesel,Usados,8073689973,BMW,184 cv,158 000 km,Sedan,Série 5,,,,
+278,2015,,Diesel,Usados,8075641336,VW,110 cv,192 000 km,Carrinha,,,,,
+279,2013,Classe 1,Diesel,Usados,8074445048,BMW,143 cv,107 047 km,Sedan,Série 3,Automática,,,
+280,2001,,Diesel,Usados,8074700182,Opel,115 cv,74 300 km,SUV / TT,,,,,
+281,2004,Classe 1,Diesel,Usados,8064623569,VW,140 cv,199 750 km,Utilitário,,Manual,,Nacional,
+282,2003,,Gasolina,Usados,8052390882,BMW,196 cv,218 000 km,Coupé,Série 3,Manual,,Nacional,
+283,2008,,Diesel,Usados,8073909573,Toyota,126 cv,290 000 km,Sedan,,,,,
+284,1969,Classe 1,Gasolina,Usados,8062445862,BMW,85 cv,91 700 km,Cabrio,,Manual,97100,,
+285,2018,Classe 1,Diesel,Usados,8074623843,Hyundai,110 cv,11 000 km,Utilitário,,Manual,09-UX-14,Nacional,Sim
+286,2014,Classe 1,Diesel,Usados,8072929673,SEAT,105 cv,113 000 km,Citadino,,Manual,,,
+287,2016,Classe 1,Diesel,Usados,8047525482,Volvo,120 cv,117 500 km,Carrinha,,Manual,,,
+288,2010,Classe 1,Diesel,Usados,8071135285,BMW,204 cv,229 000 km,SUV / TT,Série X,Automática,,Nacional,Sim
+289,2014,Classe 1,Diesel,Usados,8065148636,Skoda,110 cv,127 000 km,SUV / TT,,Manual,,,Sim
+290,2011,,Diesel,Usados,8074701701,Mercedes-Benz,170 cv,122 000 km,Coupé,Classe E,,,,
+291,2011,,Diesel,Usados,8073713963,Mercedes-Benz,110 cv,181 435 km,Carrinha,,,,,
+292,2006,Classe 1,Gasolina,Usados,8073909519,BMW,367 cv,145 000 km,Cabrio,Série 6,Automática,,Nacional,
+293,2015,Classe 1,Diesel,Usados,8073904427,Audi,90 cv,141 500 km,Citadino,,Manual,,,
+294,2018,,Gasolina,Usados,8067084609,Hyundai,275 cv,12 000 km,Sedan,,Manual,,,Sim
+295,2007,,Gasolina,Usados,8073901644,Audi,350 cv,194 000 km,SUV / TT,,Automática,,Nacional,
+296,2014,Classe 1,Diesel,Usados,8072929673,SEAT,105 cv,113 000 km,Citadino,,Manual,,,
+297,2010,Classe 1,Diesel,Usados,8072161082,BMW,177 cv,229 000 km,SUV / TT,Série X,Automática,,Nacional,Sim
+298,2014,Classe 1,Diesel,Usados,8074535139,VW,75 cv,80 600 km,Citadino,,Manual,00-OO-00,Nacional,
+299,2017,Classe 1,Gasolina,Usados,8075582025,Smart,71 cv,32 000 km,Pequeno citadino,,,,,
+300,2003,,Gasolina,Usados,8073781526,Fiat,75 cv,219 000 km,Citadino,,,,,
+301,2018,Classe 1,Gasolina,Usados,8052546642,VW,130 cv,24 599 km,Utilitário,,Automática,,,Sim
+302,2016,Classe 1,Diesel,Usados,8058555007,Mazda,105 cv,51 000 km,SUV / TT,,Manual,,Nacional,Sim
+303,1956,Classe 1,Gasolina,Usados,8062440180,Mercedes-Benz,105 cv,103 500 km,Sedan,,Manual,,,
+304,2004,Classe 1,Diesel,Usados,8064623569,VW,140 cv,199 750 km,Utilitário,,Manual,,Nacional,
+305,2011,,Gasolina,Usados,8057990056,Citroën,200 cv,126 200 km,Utilitário,,Manual,,,
+306,2007,,Diesel,Usados,8074703990,BMW,160 cv,160 000 km,Carrinha,Série 5,Automática,,,
+307,2017,Classe 1,Gasolina,Usados,8075582025,Smart,71 cv,32 000 km,Pequeno citadino,,,,,
+308,1987,,Gasolina,Usados,8073734958,Lancia,115 cv,101 000 km,Sedan,,,,,
+309,2014,,Diesel,Usados,8069542065,Chevrolet,130 cv,84 000 km,Carrinha,,Manual,,,
+310,2014,Classe 1,Diesel,Usados,8074535139,VW,75 cv,80 600 km,Citadino,,Manual,00-OO-00,Nacional,
+311,2017,Classe 1,Diesel,Usados,6009008867,Ford,120 cv,69 500 km,Carrinha,,Manual,00-TG-16,Nacional,Sim
+312,2013,Classe 1,Diesel,Usados,8070607962,Opel,163 cv,94 000 km,Carrinha,,Manual,,,
+313,2018,Classe 1,GPL,Usados,8073899082,Dacia,90 cv,92 135 km,Sedan,,Manual,,Nacional,
+314,2010,,Diesel,Usados,8065725716,Smart,53 cv,128 634 km,Pequeno citadino,,,,,
+315,2012,Classe 1,Diesel,Usados,8069325952,BMW,116 cv,142 000 km,Utilitário,Série 1,Manual,,Nacional,Sim
+316,1991,Classe 1,Gasolina,Usados,8056129250,Mercedes-Benz,231 cv,170 000 km,Coupé,,Manual,,,
+317,2010,Classe 1,Diesel,Usados,8074702420,Audi,240 cv,240 000 km,Sedan,,Automática,,Nacional,
+318,2011,Classe 1,Gasolina,Usados,8074788746,Audi,122 cv,48 925 km,Citadino,,Automática,,Nacional,
+319,2013,,Diesel,Usados,8069633209,Dacia,90 cv,180 000 km,Utilitário,,Manual,,,
+320,2015,,Diesel,Usados,8068174567,Renault,110 cv,140 630 km,Utilitário,,Manual,28-ZN-46,Importado,
+321,2017,,Gasolina,Usados,8071240817,Renault,90 cv,36 550 km,Citadino,,Manual,51-TG-59,Nacional,
+322,2012,Classe 1,Diesel,Usados,8074631377,Mercedes-Benz,110 cv,97 000 km,Utilitário,Classe A,Manual,00-00-00,,Sim
+323,2019,Classe 1,Gasolina,Usados,8068294854,Peugeot,130 cv,16 000 km,Carrinha,,Manual,,Nacional,Sim
+324,2016,Classe 1,Diesel,Usados,8060217631,SEAT,105 cv,20 468 km,Citadino,,Manual,,Nacional,
+325,2016,,Diesel,Usados,8060803574,BMW,110 cv,60 226 km,Monovolume,Série 2,Automática,,,Sim
+326,2016,Classe 1,Diesel,Usados,8072434846,Mercedes-Benz,130 cv,98 000 km,Utilitário,Classe CLA,Manual,,,Sim
+327,2016,Classe 1,Diesel,Usados,8074973869,Peugeot,120 cv,98 000 km,SUV / TT,,Manual,,,
+328,2017,Classe 1,Gasolina,Usados,8074420267,SEAT,75 cv,48 000 km,Citadino,,Manual,,Nacional,Sim
+329,2015,,Híbrido (Gasolina),Usados,8063233523,Lexus,136 cv,81 000 km,Utilitário,CT,Automática,,Nacional,Sim
+330,2007,,Diesel,Usados,8075606250,Opel,125 cv,190 000 km,Utilitário,,Manual,,,Sim
+331,2016,Classe 1,Gasolina,Usados,8047887334,Honda,100 cv,35 987 km,Utilitário,,Manual,,,Sim
+332,2016,Classe 1,Gasolina,Usados,8074428102,Smart,90 cv,28 000 km,Citadino,,Automática,,Nacional,
+333,2015,,Diesel,Usados,8073229405,VW,110 cv,140 164 km,Utilitário,,Manual,54-ZT-82,Importado,
+334,2019,Classe 1,Gasolina,Usados,8074427199,Ford,125 cv,12 400 km,Utilitário,,Automática,29-XH-28,Nacional,
+335,2016,,Gasolina,Usados,8057957718,MINI,231 cv,50 000 km,Coupé,,,,,
+336,2010,,Gasolina,Usados,8074784624,Opel,84 cv,113 400 km,Citadino,,Manual,,Nacional,Sim
+337,2016,Classe 1,Gasolina,Usados,8047887334,Honda,100 cv,35 987 km,Utilitário,,Manual,,,Sim
+338,2018,Classe 1,Gasolina,Usados,8071221709,Fiat,69 cv,49 622 km,Pequeno citadino,,Manual,,Nacional,
+339,2011,,Diesel,Usados,8074776941,BMW,313 cv,240 000 km,Utilitário,Série 5,,,,Sim
+340,1981,Classe 1,Gasolina,Usados,8075193687,Alfa Romeo,160 cv,114 000 km,Coupé,,Manual,,Importado,
+341,1992,Classe 1,Gasolina,Usados,8075189836,Mercedes-Benz,333 cv,144 400 km,Cabrio,Classe SL,Automática,,Importado,
+342,2018,,Gasolina,Usados,8071251411,Peugeot,82 cv,19 102 km,Citadino,,Manual,75-UU-70,Nacional,
+343,2016,Classe 1,Diesel,Usados,8060217631,SEAT,105 cv,20 468 km,Citadino,,Manual,,Nacional,
+344,2012,Classe 1,Gasolina,Usados,8074780498,Audi,520 cv,160 000 km,Sedan,,Automática,,,
+345,2015,Classe 1,Diesel,Usados,8074062505,VW,190 cv,125 000 km,Carrinha,,Automática,,,
+346,2017,,Diesel,Usados,8074971964,Peugeot,120 cv,78 000 km,SUV / TT,,,,,
+347,2019,Classe 1,Gasolina,Usados,8035955823,Peugeot,82 cv,2 300 km,SUV / TT,,Manual,,Nacional,Sim
+348,2010,Classe 1,Diesel,Usados,8074783581,Renault,105 cv,250 000 km,Carrinha,,Manual,,,
+349,2007,,Diesel,Usados,8075606250,Opel,125 cv,190 000 km,Utilitário,,Manual,,,Sim
+350,2007,Classe 1,Diesel,Usados,8073897569,Mercedes-Benz,170 cv,235 000 km,Sedan,Classe C,Manual,,Nacional,
+351,2019,Classe 1,Gasolina,Usados,8074421223,Fiat,68 cv,600 km,Pequeno citadino,,Manual,,,Sim
+352,2019,Classe 1,Gasolina,Usados,8058479143,Mercedes-Benz,110 cv,9 490 km,Utilitário,Classe A,Manual,,Nacional,Sim
+353,2013,Classe 1,Diesel,Usados,8073395220,Mercedes-Benz,170 cv,129 000 km,Sedan,Classe E,Automática,,,Sim
+354,2010,Classe 1,Gasolina,Usados,8074631407,MINI,185 cv,132 000 km,Citadino,,Manual,00-00-00,,Sim
+355,2016,Classe 1,Diesel,Usados,8073898879,VW,110 cv,152 000 km,Carrinha,,Manual,,Nacional,
+356,2019,Classe 1,Gasolina,Usados,8063257031,Opel,83 cv,6 000 km,SUV / TT,,Manual,,Nacional,Sim
+357,2013,Classe 1,Híbrido (Diesel),Usados,8072189616,Peugeot,200 cv,122 000 km,Carrinha,,Automática,,,
+358,2018,Classe 1,Gasolina,Usados,8071221709,Fiat,69 cv,49 622 km,Pequeno citadino,,Manual,,Nacional,
+359,2016,Classe 1,Diesel,Usados,8060055451,BMW,120 cv,129 000 km,Monovolume,Série 2,Manual,,,Sim
+360,2014,,Diesel,Usados,8074699290,Mercedes-Benz,204 cv,123 000 km,Coupé,Classe E,,,,Sim
+361,2010,Classe 1,Diesel,Usados,8071477486,SEAT,105 cv,164 000 km,Monovolume,,Manual,86-IX-90,Nacional,
+362,2017,,Diesel,Usados,8075180637,Opel,105 cv,8 000 km,Citadino,,,,,
+363,2006,Classe 1,Diesel,Usados,8073385631,Citroën,110 cv,235 000 km,Utilitário,,Manual,,,Sim
+364,2016,Classe 2,Híbrido (Gasolina),Usados,8070338350,Porsche,450 cv,33 450 km,SUV / TT,,Automática,,,
+365,2015,Classe 1,Diesel,Usados,8060006415,MINI,116 cv,143 000 km,Citadino,,Automática,,Importado,Sim
+366,2013,,Diesel,Usados,8066134906,BMW,143 cv,118 626 km,Carrinha,Série 3,Manual,26-oe-25,Nacional,
+367,2018,,Gasolina,Usados,8061466932,SEAT,75 cv,20 695 km,Utilitário,,Manual,85-UN-29,Nacional,
+368,2016,Classe 1,Diesel,Usados,8040406225,Mercedes-Benz,194 cv,159 500 km,Sedan,Classe E,Automática,,Importado,
+369,2015,,Diesel,Usados,8062583514,Citroën,115 cv,138 000 km,Utilitário,,Manual,25-VG-43,,Sim
+370,2015,,Diesel,Usados,8075641336,VW,110 cv,192 000 km,Carrinha,,,,,
+371,2015,Classe 1,Diesel,Usados,8067186794,Peugeot,120 cv,136 120 km,Carrinha,,Manual,,,Sim
+372,2015,,Diesel,Usados,8075641336,VW,110 cv,192 000 km,Carrinha,,,,,
+373,2004,Classe 1,Diesel,Usados,8074642921,BMW,218 cv,223 000 km,SUV / TT,Série X,Automática,,Nacional,
+374,2007,Classe 1,Gasolina,Usados,8074060743,MINI,174 cv,150 000 km,Citadino,,Manual,,,
+375,2011,,Diesel,Usados,8074697625,Audi,177 cv,230 000 km,Sedan,,Manual,,,
+376,2019,Classe 1,Diesel,Usados,8072568798,Volvo,150 cv,7 250 km,SUV / TT,,Manual,,Nacional,Sim
+377,2016,,Diesel,Usados,8074698086,MINI,115 cv,99 800 km,Carrinha,,Automática,,,
+378,2010,Classe 1,Diesel,Usados,8074057078,VW,170 cv,240 000 km,Coupé,,Manual,,,Sim
+379,2016,,Diesel,Usados,8064721885,Mercedes-Benz,115 cv,170 000 km,Carrinha,,,,,
+380,2016,Classe 1,Híbrido (Diesel),Usados,8060182575,Mercedes-Benz,231 cv,98 500 km,Sedan,Classe C,Automática,,,
+381,1999,Classe 2,Diesel,Usados,8069413174,Toyota,204 cv,311 000 km,SUV / TT,,Manual,,Nacional,
+382,2014,Classe 1,Diesel,Usados,8058165873,BMW,218 cv,111 000 km,Carrinha,Série 5,Automática,,,
+383,2017,Classe 1,Gasolina,Usados,8071462125,Smart,90 cv,35 000 km,Pequeno citadino,,Automática,,,
+384,2014,Classe 1,Diesel,Usados,8073387189,Ford,115 cv,77 925 km,Carrinha,,Manual,,Nacional,Sim
+385,2015,,Diesel,Usados,8062583514,Citroën,115 cv,138 000 km,Utilitário,,Manual,25-VG-43,,Sim
+386,2018,,Gasolina,Usados,8061466932,SEAT,75 cv,20 695 km,Utilitário,,Manual,85-UN-29,Nacional,
+387,2007,,Gasolina,Usados,8074699022,Toyota,75 cv,215 000 km,Citadino,,,,,
+388,2013,Classe 1,Gasolina,Usados,8074233408,Ford,250 cv,107 000 km,Utilitário,,Manual,,,
+389,2006,Classe 1,Diesel,Usados,8073385631,Citroën,110 cv,235 000 km,Utilitário,,Manual,,,Sim
+390,2008,Classe 1,Diesel,Usados,8073604508,Nissan,106 cv,96 100 km,SUV / TT,,Manual,,,
+391,2009,Classe 1,Diesel,Usados,8074779498,Audi,170 cv,284 817 km,Carrinha,,Manual,,Nacional,Sim
+392,2012,,Diesel,Usados,8073893600,Land Rover,150 cv,188 000 km,SUV / TT,,,,Nacional,Sim
+393,2001,Classe 1,Diesel,Usados,8074696936,Peugeot,90 cv,175 000 km,Citadino,,Manual,,,
+394,2017,,Diesel,Usados,8074694681,Mercedes-Benz,170 cv,53 000 km,Carrinha,Classe C,,,,
+395,2011,Classe 1,Diesel,Usados,8048333704,Opel,125 cv,162 000 km,Carrinha,,Manual,,Nacional,
+396,2012,Classe 1,Diesel,Usados,8074698005,Peugeot,112 cv,150 000 km,SUV / TT,,Manual,,Nacional,Sim
+397,2010,Classe 1,Diesel,Usados,8035355111,Renault,70 cv,200 500 km,Utilitário,,Manual,,Nacional,
+398,2016,,Diesel,Usados,8073895530,BMW,116 cv,55 000 km,Citadino,Série 1,,,,
+399,2010,,Diesel,Usados,8074306698,BMW,143 cv,143 000 km,SUV / TT,Série X,,,,
+400,2015,Classe 1,Diesel,Usados,8074279001,VW,110 cv,108 000 km,Carrinha,,Manual,,Nacional,Sim
+401,2017,Classe 1,Diesel,Usados,8074695759,BMW,116 cv,85 000 km,Utilitário,Série 1,Manual,,Importado,
+402,2017,,Gasolina,Usados,8073539287,Peugeot,69 cv,63 118 km,Pequeno citadino,,Manual,,Nacional,
+403,2011,Classe 1,Diesel,Usados,8075641587,Opel,95 cv,200 000 km,Monovolume,,Manual,,Nacional,
+404,2016,Classe 1,Gasolina,Usados,8071261049,Opel,90 cv,47 899 km,Citadino,,Automática,57-QT-55,Nacional,
+405,2007,Classe 1,Gasolina,Usados,8075619880,Chevrolet,94 cv,99 896 km,Citadino,,Manual,,Nacional,
+406,1981,Classe 1,Gasolina,Usados,8074695491,BMW,200 cv,117 000 km,Coupé,,Manual,DR-09-91,Nacional,
+407,2011,,Gasolina,Usados,8074413029,VW,265 cv,113 500 km,Coupé,,Automática,,Importado,
+408,2008,,Diesel,Usados,8075293427,BMW,177 cv,210 000 km,Carrinha,Série 3,Manual,,Nacional,
+409,2015,Classe 1,Diesel,Usados,8071574264,MINI,112 cv,77 952 km,Utilitário,,Manual,08-QL-37,Nacional,
+410,2014,Classe 1,Diesel,Usados,8049893871,Kia,90 cv,111 000 km,Citadino,,Manual,,Nacional,Sim
+411,2015,Classe 1,Diesel,Usados,8073703819,MINI,90 cv,117 000 km,Utilitário,,Manual,61-om-52,Nacional,
+412,2015,Classe 1,Diesel,Usados,8069246111,Citroën,120 cv,52 000 km,Monovolume,,Automática,,Nacional,
+413,2010,,Gasolina,Usados,8072098380,Opel,85 cv,132 000 km,Citadino,,Automática,,Nacional,
+414,2007,,Diesel,Usados,8074532426,MINI,110 cv,180 000 km,Citadino,,Manual,23-EM-67,Nacional,
+415,2016,Classe 1,Gasolina,Usados,8071575154,Fiat,69 cv,69 208 km,Pequeno citadino,,Manual,,Nacional,Sim
+416,2008,,Diesel,Usados,8073971531,Dodge,140 cv,170 000 km,SUV / TT,,Automática,,Nacional,
+417,2015,Classe 1,Diesel,Usados,8074279001,VW,110 cv,108 000 km,Carrinha,,Manual,,Nacional,Sim
+418,2015,Classe 1,Híbrido (Gasolina),Usados,8070700175,Lexus,223 cv,64 000 km,Sedan,IS,Automática,,Nacional,Sim
+419,2015,Classe 1,Diesel,Usados,8071377402,Ford,120 cv,54 763 km,Carrinha,,Manual,49-QD-88,Nacional,Sim
+420,2006,Classe 1,Gasolina,Usados,8065804206,Peugeot,68 cv,146 000 km,Pequeno citadino,,Manual,,Nacional,
+421,2019,,Eléctrico,Usados,8073888119,Smart,82 cv,8 800 km,Pequeno citadino,,Automática,,Nacional,
+422,2013,Classe 1,Gasolina,Usados,8073537858,Fiat,69 cv,107 052 km,Citadino,,Manual,46-NM-23,Nacional,
+423,2015,Classe 1,Híbrido (Gasolina),Usados,8070700175,Lexus,223 cv,64 000 km,Sedan,IS,Automática,,Nacional,Sim
+424,2007,Classe 1,Gasolina,Usados,8075619880,Chevrolet,94 cv,99 896 km,Citadino,,Manual,,Nacional,
+425,2016,,Diesel,Usados,8036882088,Opel,95 cv,78 000 km,Citadino,,Manual,,Nacional,
+426,2016,Classe 1,Diesel,Usados,8071979318,Mercedes-Benz,258 cv,120 000 km,Sedan,Classe S,Automática,,Nacional,
+427,2004,,Diesel,Usados,8073889222,Volvo,185 cv,162 000 km,SUV / TT,,Automática,,Nacional,
+428,2011,Classe 1,Diesel,Usados,8075641587,Opel,95 cv,200 000 km,Monovolume,,Manual,,Nacional,
+429,2010,Classe 1,Gasolina,Usados,8069251345,Honda,100 cv,105 000 km,Utilitário,,Manual,,Nacional,
+430,2017,Classe 1,Diesel,Usados,8072006133,Citroën,100 cv,60 000 km,Citadino,,Manual,,Importado,
+431,2014,,Diesel,Usados,8073890489,Audi,245 cv,120 000 km,SUV / TT,,,,,
+432,2018,,Diesel,Usados,8074696826,Toyota,150 cv,26 500 km,SUV / TT,,,,,Sim
+433,2018,Classe 2,Diesel,Usados,8074416530,Volvo,190 cv,19 500 km,SUV / TT,,Automática,26UJ96,Nacional,Sim
+434,2017,Classe 1,Diesel,Usados,8057873727,Volvo,190 cv,68 500 km,SUV / TT,,Automática,,Nacional,
+435,2016,Classe 1,Diesel,Usados,8040406225,Mercedes-Benz,194 cv,159 500 km,Sedan,Classe E,Automática,,Importado,
+436,2008,Classe 1,Diesel,Usados,8073703608,Citroën,110 cv,230 000 km,Monovolume,,Automática,,,
+437,2013,Classe 1,Diesel,Usados,8069253369,Toyota,90 cv,58 000 km,Carrinha,,Manual,,Nacional,
+438,2013,Classe 1,Diesel,Usados,8073706030,Audi,313 cv,112 000 km,Sedan,,Automática,42-NS-21,Nacional,
+439,2015,Classe 1,Diesel,Usados,8060006415,MINI,116 cv,143 000 km,Citadino,,Automática,,Importado,Sim
+440,2011,Classe 1,Diesel,Usados,8054745633,Audi,105 cv,208 000 km,Citadino,,Manual,--MM -,Nacional,Sim
+441,2011,Classe 1,Gasolina,Usados,8073887394,Lancia,140 cv,75 000 km,Utilitário,,Manual,70LJ24,Nacional,
+442,2007,Classe 1,Diesel,Usados,8073887594,Ford,110 cv,165 000 km,Carrinha,,Manual,87-DE-72,Nacional,
+443,2004,Classe 1,Diesel,Usados,8064623569,VW,140 cv,199 750 km,Utilitário,,Manual,,Nacional,
+444,2011,,Diesel,Usados,8074401726,Suzuki,75 cv,132 000 km,Citadino,,,,,
+445,2002,Classe 1,Diesel,Usados,8074054890,MINI,45 cv,257 000 km,Cabrio,,Manual,,,
+446,2010,Classe 1,Diesel,Usados,8071102651,Renault,64 cv,116 000 km,Citadino,,,,,
+447,2004,Classe 1,GPL,Usados,8073384078,Mercedes-Benz,163 cv,215 000 km,Cabrio,Classe SLK,Manual,,,
+448,2014,Classe 1,GPL,Usados,8073198732,Dacia,75 cv,117 000 km,Carrinha,,Manual,,Nacional,
+449,2018,Classe 1,Híbrido (Gasolina),Usados,8063816726,BMW,365 cv,30 000 km,Coupé,Série i,Automática,,,
+450,2008,,Gasolina,Usados,8074693880,Fiat,69 cv,97 000 km,Pequeno citadino,,Manual,,,
+451,2018,Classe 1,Diesel,Usados,8074694968,Mazda,150 cv,52 000 km,SUV / TT,,Manual,,Nacional,
+452,2011,Classe 1,Diesel,Usados,8074691686,Alfa Romeo,105 cv,143 400 km,Utilitário,,Manual,,,
+453,2016,,Diesel,Usados,8036882088,Opel,95 cv,78 000 km,Citadino,,Manual,,Nacional,
+454,2013,,Diesel,Usados,8074695376,Alfa Romeo,170 cv,135 000 km,Utilitário,,Automática,,,Sim
+455,2011,,Diesel,Usados,8074056726,BMW,184 cv,281 000 km,Sedan,Série 5,,,,
+456,2017,Classe 1,Gasolina,Usados,8070215639,Kia,84 cv,30 000 km,Citadino,,Manual,,Nacional,
+457,2013,Classe 1,Diesel,Usados,8066741617,BMW,184 cv,114 200 km,Carrinha,Série 3,Automática,,Importado,
+458,2019,Classe 1,Gasolina,Usados,8051048831,Fiat,69 cv,13 000 km,Pequeno citadino,,Manual,,Nacional,Sim
+459,2019,Classe 1,Diesel,Usados,8057572469,Fiat,95 cv,21 000 km,Carrinha,,Manual,,Nacional,Sim
+460,2014,,Diesel,Usados,8075612517,Volvo,190 cv,164 700 km,Utilitário,,Manual,,Importado,
+461,2014,Classe 1,Gasolina,Usados,8074695274,VW,60 cv,13 700 km,Pequeno citadino,,Manual,,Nacional,Sim
+462,2017,Classe 1,Diesel,Usados,8063710377,VW,75 cv,83 000 km,Citadino,,Manual,,Nacional,Sim
+463,2017,Classe 1,Gasolina,Usados,8064389149,Fiat,69 cv,69 700 km,Cabrio,,Automática,,Nacional,
+464,2016,Classe 1,Diesel,Usados,8074694639,VW,120 cv,129 000 km,Carrinha,,Automática,,Importado,
+465,2014,Classe 1,Diesel,Usados,8046418649,BMW,186 cv,143 000 km,Carrinha,Série 5,Automática,,,
+466,2010,Classe 1,Diesel,Usados,8068594446,Audi,170 cv,105 000 km,Utilitário,,Manual,,Nacional,
+467,2019,Classe 1,Diesel,Usados,8052835489,Fiat,95 cv,32 000 km,Carrinha,,Manual,,Nacional,Sim
+468,2011,Classe 1,Diesel,Usados,8074291331,Peugeot,112 cv,147 000 km,Carrinha,,Manual,01-TO-34,,
+469,2011,Classe 1,Diesel,Usados,8073601427,Kia,90 cv,84 000 km,Utilitário,,Manual,,Nacional,
+470,2004,Classe 1,Diesel,Usados,8064623569,VW,140 cv,199 750 km,Utilitário,,Manual,,Nacional,
+471,2014,,Diesel,Usados,8075612517,Volvo,190 cv,164 700 km,Utilitário,,Manual,,Importado,
+472,2019,Classe 1,Diesel,Usados,8061896308,BMW,190 cv,5 500 km,Sedan,Série 5,Automática,,Nacional,Sim
+473,1981,Classe 1,Gasolina,Usados,8074695491,BMW,200 cv,117 000 km,Coupé,,Manual,DR-09-91,Nacional,
+474,2010,Classe 2,Diesel,Usados,8052838787,Jeep,200 cv,65 000 km,SUV / TT,,Automática,,,
+475,2019,Classe 1,Diesel,Usados,8071120144,Fiat,95 cv,31 750 km,Utilitário,,Manual,,Nacional,Sim
+476,2011,Classe 1,Diesel,Usados,8074291331,Peugeot,112 cv,147 000 km,Carrinha,,Manual,01-TO-34,,
+477,2018,,Diesel,Usados,8074228513,Audi,116 cv,42 642 km,Utilitário,,Manual,90-UV-52,Nacional,Sim
+478,2018,,Diesel,Usados,8074228513,Audi,116 cv,42 642 km,Utilitário,,Manual,90-UV-52,Nacional,Sim
+479,2018,Classe 1,Diesel,Usados,8062797477,Fiat,95 cv,31 000 km,SUV / TT,,Manual,,Nacional,Sim
+480,2016,Classe 1,Diesel,Usados,8073877671,Mercedes-Benz,110 cv,51 000 km,Utilitário,Classe A,Manual,,Nacional,
+481,2013,,Diesel,Usados,8069968757,Renault,110 cv,120 124 km,Cabrio,,Manual,,Nacional,
+482,2016,Classe 1,Diesel,Usados,8074693311,Opel,95 cv,68 600 km,Citadino,,Manual,28-RI-65,Nacional,
+483,2018,,Diesel,Usados,8074053181,Nissan,110 cv,8 000 km,SUV / TT,,Manual,,Nacional,
+484,2015,Classe 1,Diesel,Usados,8073875175,Citroën,120 cv,175 000 km,Monovolume,,Manual,,Importado,
+485,2016,Classe 1,Diesel,Usados,8071897133,BMW,116 cv,45 500 km,Utilitário,Série 1,Manual,,Nacional,
+486,2005,Classe 1,Diesel,Usados,8056505919,Mercedes-Benz,170 cv,160 000 km,Coupé,Classe CLK,Automática,,Nacional,
+487,2017,Classe 1,Gasolina,Usados,8064389149,Fiat,69 cv,69 700 km,Cabrio,,Automática,,Nacional,
+488,2017,Classe 1,Diesel,Usados,8066331959,BMW,116 cv,87 000 km,Utilitário,Série 1,Manual,,Nacional,Sim
+489,2015,Classe 1,Híbrido (Diesel),Usados,8059247040,Mercedes-Benz,204 cv,75 000 km,Carrinha,Classe E,Automática,45-QI-54,Nacional,Sim
+490,2005,Classe 1,Diesel,Usados,8056505919,Mercedes-Benz,170 cv,160 000 km,Coupé,Classe CLK,Automática,,Nacional,
+491,2017,Classe 1,Diesel,Usados,8067090879,Renault,90 cv,106 000 km,Utilitário,,Manual,,,
+492,2004,Classe 1,Gasolina,Usados,8066723712,Maserati,400 cv,44 000 km,Sedan,,Automática,,Nacional,Sim
+493,2013,,Diesel,Usados,8075702417,Renault,110 cv,140 000 km,Carrinha,,,,,
+494,2017,Classe 1,Diesel,Usados,8070056803,Renault,110 cv,69 000 km,Carrinha,,Automática,,,
+495,2012,Classe 1,Diesel,Usados,8073377665,Volvo,115 cv,176 744 km,Carrinha,,Manual,,,
+496,1998,,Diesel,Usados,8072575908,Mercedes-Benz,125 cv,240 000 km,Carrinha,Classe C,,,,
+497,2007,,Diesel,Usados,8073699931,Peugeot,110 cv,213 000 km,Citadino,,,,,Sim
+498,2018,Classe 1,Diesel,Usados,8074427819,Peugeot,130 cv,34 000 km,Carrinha,,Manual,,Nacional,Sim
+499,2015,,Diesel,Usados,8068182343,Peugeot,120 cv,115 000 km,Carrinha,,Manual,,,
+500,2016,,Diesel,Usados,8056084735,Renault,110 cv,105 000 km,SUV / TT,,Manual,,,
+501,2010,Classe 1,Diesel,Usados,8073377849,Renault,110 cv,220 000 km,Carrinha,,Manual,,,
+502,2013,,Diesel,Usados,8075702417,Renault,110 cv,140 000 km,Carrinha,,,,,
+503,2015,Classe 1,Gasolina,Usados,8074053895,Jaguar,380 cv,158 000 km,Coupé,,Automática,,Nacional,
+504,2019,Classe 1,Diesel,Usados,8049423107,Mercedes-Benz,116 cv,24 000 km,Utilitário,Classe A,Automática,,Nacional,
+505,2018,,Diesel,Usados,8074228513,Audi,116 cv,42 642 km,Utilitário,,Manual,90-UV-52,Nacional,Sim
+506,2015,Classe 1,Diesel,Usados,8072569441,Mitsubishi,150 cv,126 000 km,SUV / TT,,Manual,,,
+507,2010,Classe 1,Gasolina,Usados,8074305868,BMW,272 cv,88 000 km,Coupé,Série 3,Automática,,,
+508,2018,Classe 1,Híbrido (Gasolina),Usados,8059859976,Toyota,122 cv,40 000 km,SUV / TT,,Automática,,,Sim
+509,2013,,Diesel,Usados,8073378176,BMW,143 cv,117 000 km,Sedan,Série 3,Automática,,Nacional,
+510,2018,Classe 1,Gasolina,Usados,8072311522,SEAT,300 cv,19 400 km,Utilitário,,Manual,,,
+511,2017,Classe 1,Diesel,Usados,8071231618,Mazda,105 cv,34 500 km,Utilitário,,Manual,,Nacional,
+512,2011,Classe 1,Diesel,Usados,8074684630,Ford,140 cv,210 000 km,Monovolume,,Manual,,Nacional,
+513,2015,Classe 1,Diesel,Usados,8073381337,Mercedes-Benz,170 cv,229 500 km,Sedan,Classe E,Automática,,,
+514,2016,Classe 1,Diesel,Usados,8063093590,Ford,120 cv,92 000 km,Carrinha,,Manual,73-RJ-90,Nacional,Sim
+515,2019,Classe 1,Gasolina,Usados,8051050999,Fiat,69 cv,21 000 km,Pequeno citadino,,Manual,,Nacional,Sim
+516,2018,,Diesel,Usados,8074228513,Audi,116 cv,42 642 km,Utilitário,,Manual,90-UV-52,Nacional,Sim
+517,2017,Classe 1,Diesel,Usados,8074693297,Audi,320 cv,74 000 km,Carrinha,,Automática,83-TB-99,Nacional,
+518,2018,Classe 1,Gasolina,Usados,8072311522,SEAT,300 cv,19 400 km,Utilitário,,Manual,,,
+519,2015,,Diesel,Usados,8069872515,Nissan,110 cv,99 800 km,Utilitário,,Manual,,,
+520,2008,Classe 2,Diesel,Usados,8052914668,BMW,286 cv,140 000 km,SUV / TT,Série X,Automática,,Nacional,
+521,2012,Classe 1,Gasolina,Usados,8070687350,Renault,75 cv,140 000 km,Citadino,,Manual,,Nacional,
+522,2015,Classe 1,Diesel,Usados,8064856398,Citroën,120 cv,75 000 km,Utilitário,,Manual,08-QJ-59,Nacional,Sim
+523,2015,Classe 1,Gasolina,Usados,8072456233,MINI,136 cv,53 300 km,Citadino,,Manual,65-VZ-68,,
+524,2016,Classe 1,Diesel,Usados,8075621133,Renault,90 cv,60 000 km,SUV / TT,,Manual,,,Sim
+525,2015,,Diesel,Usados,8073606392,Ford,75 cv,102 000 km,Citadino,,,,,
+526,2006,,Gasolina,Usados,8069112443,BMW,343 cv,110 000 km,Cabrio,Série 3,,,,
+527,2016,Classe 4,Diesel,Usados,8067664261,Ford,120 cv,159 000 km,Utilitário,,Manual,,Importado,
+528,2016,,Diesel,Usados,8073868590,BMW,150 cv,73 000 km,Cabrio,Série 2,Manual,,Nacional,Sim
+529,2016,Classe 1,Eléctrico,Usados,8070988465,Nissan,110 cv,29 966 km,Utilitário,,Automática,,,Sim
+530,2014,,Gasolina,Usados,8070781784,BMW,431 cv,50 000 km,Coupé,Série 4,Automática,,Nacional,Sim
+531,2015,Classe 1,Gasolina,Usados,8072808027,Bentley,520 cv,21 800 km,Coupé,,Automática,,,
+532,2015,Classe 1,Gasolina,Usados,8064638250,Smart,71 cv,35 300 km,Pequeno citadino,,Automática,,,Sim
+533,2003,Classe 1,Diesel,Usados,8062574358,Ford,115 cv,280 000 km,Carrinha,,Manual,,,Sim
+534,2015,,Gasolina,Usados,8074050742,Renault,70 cv,63 000 km,Pequeno citadino,,,,,
+535,2015,Classe 1,Diesel,Usados,8064856398,Citroën,120 cv,75 000 km,Utilitário,,Manual,08-QJ-59,Nacional,Sim
+536,2015,Classe 1,Gasolina,Usados,8060854828,Mercedes-Benz,510 cv,32 000 km,Coupé,,Automática,,,
+537,2005,Classe 1,Gasolina,Usados,8072969448,BMW,258 cv,304 000 km,Cabrio,Série 6,Semi-automática,,Importado,Sim
+538,2012,Classe 1,Gasolina,Usados,8044001516,Maserati,450 cv,48 000 km,Cabrio,,Automática,,Importado,
+539,2019,Classe 2,Diesel,Usados,8074517661,Fiat,125 cv,1 500 km,Monovolume,,Manual,,Nacional,
+540,2015,Classe 1,Diesel,Usados,8071315141,BMW,313 cv,89 000 km,Utilitário,Série 4,Automática,,,
+541,2013,,Diesel,Usados,8074688134,Volvo,120 cv,86 000 km,Carrinha,,Manual,,,
+542,2001,Classe 1,Gasolina,Usados,8072478460,Renault,110 cv,216 000 km,Sedan,,Manual,,,
+543,2011,Classe 1,Diesel,Usados,8066662172,Volvo,115 cv,139 000 km,Coupé,,Manual,,Importado,
+544,1999,,Diesel,Usados,8072473129,Renault,115 cv,340 000 km,Monovolume,,Manual,,,
+545,2015,Classe 1,Diesel,Usados,8072537254,Peugeot,120 cv,170 000 km,Carrinha,,Manual,,Nacional,
+546,2016,Classe 1,Eléctrico,Usados,8070988465,Nissan,110 cv,29 966 km,Utilitário,,Automática,,,Sim
+547,2016,Classe 1,Eléctrico,Usados,8058247542,Nissan,100 cv,34 500 km,Utilitário,,Automática,,Importado,
+548,2016,Classe 1,Diesel,Usados,8075621133,Renault,90 cv,60 000 km,SUV / TT,,Manual,,,Sim
+549,1997,Classe 1,Diesel,Usados,8072470998,Mercedes-Benz,130 cv,225 000 km,Sedan,Classe E,Automática,,,
+550,2011,Classe 1,Diesel,Usados,8060679760,SEAT,140 cv,132 000 km,Monovolume,,Automática,,Nacional,
+551,2014,Classe 1,Gasolina,Usados,8072563125,MINI,184 cv,95 500 km,Citadino,,Manual,55-PE-71,Nacional,
+552,2008,Classe 1,Diesel,Usados,8075148188,VW,140 cv,219 770 km,SUV / TT,,Manual,,Nacional,
+553,2004,,Híbrido (Gasolina),Usados,8074762815,Nissan,98 cv,146 000 km,Sedan,,Manual,,Nacional,
+554,2011,,Diesel,Usados,8075180382,Jaguar,200 cv,111 500 km,Sedan,,Automática,,,
+555,2010,Classe 1,Diesel,Usados,8067199292,VW,140 cv,360 000 km,Carrinha,,Manual,,Nacional,Sim
+556,2003,,Gasolina,Usados,8073871775,Hummer,325 cv,81 000 km,SUV / TT,,,,,
+557,2008,Classe 2,Diesel,Usados,8052914668,BMW,286 cv,140 000 km,SUV / TT,Série X,Automática,,Nacional,
+558,2009,Classe 1,Gasolina,Usados,8073369025,Renault,75 cv,116 000 km,Carrinha,,Manual,,,Sim
+559,2006,Classe 1,Diesel,Usados,8073688272,Audi,180 cv,319 000 km,Carrinha,,Automática,,Nacional,
+560,2012,Classe 1,Diesel,Usados,8073871302,BMW,184 cv,150 000 km,Carrinha,Série 5,Automática,,,
+561,2003,Classe 1,Diesel,Usados,8074683504,Opel,70 cv,240 000 km,Citadino,,Manual,40-26-VR,Nacional,
+562,2010,Classe 1,Diesel,Usados,8074383096,Citroën,55 cv,120 000 km,Citadino,,Manual,,Nacional,
+563,2010,Classe 1,Diesel,Usados,8060068611,Peugeot,110 cv,191 600 km,SUV / TT,,Automática,78-IQ-55,Nacional,
+564,2010,Classe 1,Diesel,Usados,8074376488,Ford,163 cv,190 000 km,Monovolume,,Automática,,Nacional,
+565,2010,,Diesel,Usados,8074677099,Opel,130 cv,200 000 km,Carrinha,,,,Nacional,Sim
+566,2014,Classe 1,Diesel,Usados,8073873032,Renault,911 cv,148 000 km,Carrinha,,Manual,,Importado,
+567,2009,Classe 1,Diesel,Usados,8073783433,Opel,160 cv,196 000 km,Carrinha,,Automática,,,Sim
+568,2005,,Gasolina,Usados,8061716316,Smart,80 cv,95 000 km,Pequeno citadino,,,,,
+569,2007,Classe 1,Gasolina,Usados,8070909977,Smart,71 cv,47 640 km,Pequeno citadino,,Semi-automática,,Nacional,
+570,2008,Classe 1,Diesel,Usados,8074683177,Ford,140 cv,91 900 km,Monovolume,,Manual,,Nacional,Sim
+571,2019,Classe 1,Gasolina,Usados,8073366553,Citroën,130 cv,43 000 km,Monovolume,,Automática,,,
+572,2014,Classe 2,Diesel,Usados,8073869374,Isuzu,164 cv,77 600 km,SUV / TT,,Manual,,,
+573,2010,,Diesel,Usados,8073687014,Peugeot,92 cv,100 100 km,Utilitário,,Manual,,,Sim
+574,2012,,Diesel,Usados,8074682948,Jeep,200 cv,58 364 km,SUV / TT,,Manual,,,
+575,2007,,Diesel,Usados,8074680206,Audi,140 cv,270 000 km,Sedan,,,,Nacional,
+576,2017,Classe 1,Gasolina,Usados,8073363297,Porsche,440 cv,23 000 km,Sedan,,Automática,,Nacional,
+577,2006,,Diesel,Usados,8074683410,BMW,163 cv,280 000 km,Carrinha,Série 3,Manual,,,
+578,2014,Classe 1,Diesel,Usados,8067793522,Peugeot,92 cv,196 070 km,Carrinha,,Manual,,Nacional,Sim
+579,2001,Classe 1,Diesel,Usados,8074683458,Land Rover,82 cv,230 000 km,SUV / TT,,Automática,,,
+580,2008,Classe 1,Diesel,Usados,8074683104,Audi,143 cv,264 000 km,Carrinha,,Manual,,Nacional,
+581,2015,,Diesel,Usados,8075645969,BMW,115 cv,160 000 km,SUV / TT,Série 2,,,,
+582,2016,Classe 1,Eléctrico,Usados,8069148284,BMW,170 cv,29 959 km,Citadino,Série i,Automática,32-zl-83,,
+583,2008,,Diesel,Usados,8075174108,Smart,54 cv,66 000 km,Pequeno citadino,,,,,
+584,2016,Classe 1,Diesel,Usados,8073871716,Peugeot,120 cv,133 000 km,Carrinha,,Manual,,,
+585,2005,,Diesel,Usados,8074681450,Citroën,110 cv,270 000 km,Monovolume,,,,Nacional,
+586,2015,,Diesel,Usados,8073682233,Peugeot,110 cv,80 000 km,Carrinha,,,,,
+587,2008,,Diesel,Usados,8073229415,Audi,143 cv,129 900 km,Carrinha,,Manual,,Nacional,
+588,2017,Classe 1,Diesel,Usados,8060216674,VW,116 cv,62 000 km,Carrinha,,Manual,,,
+589,2015,,Diesel,Usados,8075645969,BMW,115 cv,160 000 km,SUV / TT,Série 2,,,,
+590,2007,Classe 1,Gasolina,Usados,8070909977,Smart,71 cv,47 640 km,Pequeno citadino,,Semi-automática,,Nacional,
+591,2017,Classe 1,Gasolina,Usados,8074326739,Porsche,252 cv,33 845 km,SUV / TT,,Automática,,Nacional,
+592,2012,Classe 1,Diesel,Usados,8072745485,Renault,110 cv,161 130 km,Monovolume,,Manual,,,Sim
+593,2014,Classe 1,Diesel,Usados,8067793522,Peugeot,92 cv,196 070 km,Carrinha,,Manual,,Nacional,Sim
+594,2007,Classe 1,Diesel,Usados,8073867627,Hyundai,155 cv,314 000 km,SUV / TT,,Automática,,Nacional,
+595,2011,,Diesel,Usados,8071676539,Alfa Romeo,136 cv,167 000 km,Carrinha,,,,,Sim
+596,2016,Classe 1,Eléctrico,Usados,8069148284,BMW,170 cv,29 959 km,Citadino,Série i,Automática,32-zl-83,,
+597,2015,Classe 1,Diesel,Usados,8074047138,Mercedes-Benz,110 cv,55 000 km,SUV / TT,Classe GLA,Manual,,,Sim
+598,2017,Classe 1,Gasolina,Usados,8073362455,Mercedes-Benz,510 cv,30 000 km,Carrinha,Classe C,Automática,,Importado,Sim
+599,2008,,Diesel,Usados,8074683016,Mazda,70 cv,116 000 km,Citadino,,,,Nacional,
+600,1971,,Gasolina,Usados,8074602643,VW,50 cv,30 000 km,Cabrio,,,,Nacional,
+601,2013,Classe 1,Diesel,Usados,8072040542,Renault,110 cv,198 000 km,Carrinha,,Manual,,Nacional,
+602,2017,Classe 1,Diesel,Usados,8053996729,Jeep,120 cv,60 000 km,SUV / TT,,Manual,,Nacional,
+603,2010,,Diesel,Usados,8073687014,Peugeot,92 cv,100 100 km,Utilitário,,Manual,,,Sim
+604,2001,,Diesel,Usados,8074376067,BMW,136 cv,164 000 km,Sedan,Série 3,,,,
+605,2003,,Gasolina,Usados,8072812296,Audi,250 cv,126 000 km,Coupé,,,,,
+606,2015,Classe 1,Diesel,Usados,8073352082,SEAT,105 cv,102 000 km,Carrinha,,Manual,,,
+607,2015,Classe 1,Diesel,Usados,8072951516,VW,120 cv,93 000 km,Carrinha,,Manual,,Nacional,
+608,2015,Classe 1,Diesel,Usados,8070356591,Audi,184 cv,66 000 km,Cabrio,,Manual,,Importado,
+609,2009,,Diesel,Usados,8064524852,BMW,250 cv,181 000 km,SUV / TT,Série X,Automática,,Nacional,Sim
+610,2014,Classe 1,Diesel,Usados,8047263367,Mercedes-Benz,136 cv,33 000 km,Sedan,Classe CLA,Manual,,Nacional,
+611,2018,Classe 1,Diesel,Usados,8075165602,Renault,90 cv,7 000 km,SUV / TT,,Manual,,,
+612,2010,,Diesel,Usados,8071834727,Opel,160 cv,176 000 km,Carrinha,,,,,
+613,2015,,Diesel,Usados,8071205220,VW,75 cv,71 754 km,Citadino,,Manual,94QJ98,,Sim
+614,2013,Classe 1,Diesel,Usados,8073866694,Renault,110 cv,140 000 km,Carrinha,,Manual,,Importado,
+615,2017,Classe 1,Diesel,Usados,8074216799,BMW,224 cv,61 475 km,Sedan,Série 4,Automática,75-TJ-41,Nacional,
+616,2017,Classe 1,Diesel,Usados,8074680561,Mercedes-Benz,137 cv,46 778 km,Carrinha,Classe C,Manual,,Importado,Sim
+617,2017,,Diesel,Usados,8073868543,Nissan,81 cv,45 102 km,SUV / TT,,,,,
+618,2011,,Diesel,Usados,8060614737,Peugeot,90 cv,178 000 km,Citadino,,,,,Sim
+619,2015,,Diesel,Usados,8060301923,Nissan,110 cv,161 000 km,SUV / TT,,Manual,00-00-00,,Sim
+620,2015,Classe 1,Diesel,Usados,8072951516,VW,120 cv,93 000 km,Carrinha,,Manual,,Nacional,
+621,2014,,Eléctrico,Usados,8074697656,BMW,170 cv,98 000 km,Utilitário,Série i,Automática,,,Sim
+622,2011,Classe 1,Diesel,Usados,8069244493,Mercedes-Benz,136 cv,260 000 km,Carrinha,Classe C,Manual,68-RZ-92,Importado,
+623,2016,Classe 1,Diesel,Usados,8073032291,Mercedes-Benz,177 cv,115 000 km,Utilitário,Classe A,Automática,60-VS-23,Importado,
+624,2011,Classe 1,Diesel,Usados,8061173082,Citroën,70 cv,182 000 km,Citadino,,Manual,,,
+625,2012,Classe 1,Diesel,Usados,8074379915,BMW,258 cv,170 000 km,Sedan,Série 3,Automática,,,
+626,2002,Classe 1,Diesel,Usados,8074682277,Smart,41 cv,220 000 km,Cabrio,,Semi-automática,,,Sim
+627,2003,Classe 1,Gasolina,Usados,8074680386,Ford,75 cv,178 000 km,Citadino,,Manual,,Nacional,Sim
+628,2018,,Gasolina,Usados,8063725466,BMW,410 cv,3 500 km,Coupé,Série 2,Automática,,Nacional,
+629,2015,Classe 1,Diesel,Usados,8068349214,Audi,150 cv,229 000 km,Sedan,,Manual,,,Sim
+630,1999,,Diesel,Usados,8071249880,Mercedes-Benz,90 cv,243 000 km,Utilitário,Classe A,,,,
+631,2008,Classe 1,Diesel,Usados,8073588431,BMW,177 cv,229 800 km,Sedan,Série 5,Manual,,Nacional,
+632,2009,Classe 1,Diesel,Usados,8072284207,Ford,68 cv,156 000 km,Citadino,,Manual,,Nacional,
+633,2017,Classe 1,Diesel,Usados,8053996729,Jeep,120 cv,60 000 km,SUV / TT,,Manual,,Nacional,
+634,2008,,Diesel,Usados,8069509697,BMW,177 cv,196 000 km,Coupé,Série 3,,,,Sim
+635,2007,Classe 1,Diesel,Usados,8064663473,Honda,140 cv,370 000 km,SUV / TT,,Manual,,,
+636,2015,,Diesel,Usados,8060301923,Nissan,110 cv,161 000 km,SUV / TT,,Manual,00-00-00,,Sim
+637,2005,Classe 1,Gasolina,Usados,8048635790,Opel,90 cv,170 000 km,Cabrio,,Manual,,Nacional,
+638,2015,,Diesel,Usados,8071205220,VW,75 cv,71 754 km,Citadino,,Manual,94QJ98,,Sim
+639,2010,,Diesel,Usados,8064290038,BMW,170 cv,152 000 km,Sedan,Série 1,Manual,,,Sim
+640,2011,Classe 1,Diesel,Usados,8073141618,Alfa Romeo,95 cv,116 230 km,Utilitário,,Manual,,,Sim
+641,2008,Classe 1,Diesel,Usados,8075643112,BMW,177 cv,159 500 km,Sedan,Série 3,Manual,22-FE-04,Nacional,Sim
+642,2014,Classe 1,Diesel,Usados,8001183294,BMW,214 cv,139 000 km,Cabrio,Série 4,Automática,,,
+643,2011,Classe 1,Gasolina,Usados,8074654833,MINI,184 cv,111 500 km,Citadino,,Manual,,Importado,
+644,2005,Classe 1,Diesel,Usados,8068305867,Renault,120 cv,217 246 km,Carrinha,,Manual,,Nacional,
+645,2005,Classe 1,Gasolina,Usados,8048635790,Opel,90 cv,170 000 km,Cabrio,,Manual,,Nacional,
+646,2005,Classe 1,Diesel,Usados,8072476551,Renault,100 cv,213 000 km,Monovolume,,Manual,,Nacional,
+647,2012,Classe 1,Diesel,Usados,8074677037,Ford,163 cv,88 900 km,Monovolume,,Manual,,,
+648,2015,,Diesel,Usados,8051959437,VW,184 cv,89 000 km,Utilitário,,Automática,,Importado,
+649,1971,,Gasolina,Usados,8074602643,VW,50 cv,30 000 km,Cabrio,,,,Nacional,
+650,2015,Classe 1,Diesel,Usados,8071352555,BMW,150 cv,69 000 km,Carrinha,Série 3,Manual,,Nacional,Sim
+651,2018,Classe 1,Diesel,Usados,8072567023,MINI,116 cv,12 000 km,Citadino,,Automática,,,
+652,2011,,Gasolina,Usados,8073812206,Fiat,75 cv,122 000 km,Pequeno citadino,,,,,
+653,2018,,Eléctrico,Usados,8074358975,Citroën,67 cv,7 080 km,Carrinha,,Automática,85-VU-46,Nacional,Sim
+654,2008,Classe 1,Diesel,Usados,8074033666,BMW,177 cv,244 863 km,Coupé,Série 3,Manual,,Nacional,Sim
+655,2009,,Diesel,Usados,8074671087,Opel,160 cv,204 000 km,Carrinha,,Manual,,Nacional,
+656,2014,,Diesel,Usados,8067319996,VW,225 cv,72 000 km,Coupé,,Manual,,,
+657,2008,,Diesel,Usados,8073863894,Fiat,105 cv,168 000 km,Utilitário,,,,,
+658,2013,Classe 1,Diesel,Usados,8074673093,Skoda,105 cv,138 000 km,Carrinha,,Manual,,,Sim
+659,2008,Classe 1,Diesel,Usados,8075643112,BMW,177 cv,159 500 km,Sedan,Série 3,Manual,22-FE-04,Nacional,Sim
+660,2018,Classe 1,Gasolina,Usados,8053871809,MINI,192 cv,20 000 km,SUV / TT,,Automática,,,
+661,2009,Classe 1,Diesel,Usados,8062627408,BMW,177 cv,195 000 km,Carrinha,Série 3,Manual,XX-HH-XX,Nacional,
+662,2000,Classe 1,Diesel,Usados,8071927776,VW,90 cv,259 000 km,Utilitário,,Manual,,Nacional,
+663,2014,Classe 1,Diesel,Usados,8075158474,Mercedes-Benz,170 cv,129 000 km,SUV / TT,Classe GLA,Automática,,Nacional,
+664,2014,,Diesel,Usados,8071616943,Nissan,110 cv,131 000 km,SUV / TT,,Manual,,Importado,
+665,2011,Classe 1,Diesel,Usados,8073141618,Alfa Romeo,95 cv,116 230 km,Utilitário,,Manual,,,Sim
+666,2018,,Eléctrico,Usados,8074358975,Citroën,67 cv,7 080 km,Carrinha,,Automática,85-VU-46,Nacional,Sim
+667,2016,Classe 1,Diesel,Usados,8060394812,BMW,116 cv,61 934 km,Utilitário,Série 1,Manual,,Nacional,
+668,2012,Classe 1,Diesel,Usados,8072607854,VW,105 cv,233 000 km,Utilitário,,Manual,,Importado,
+669,2008,,Diesel,Usados,8073696384,Renault,105 cv,103 884 km,Carrinha,,,,,
+670,2014,Classe 1,Eléctrico,Usados,8069584929,Tesla,367 cv,149 000 km,Sedan,,Automática,,Importado,
+671,2008,Classe 1,Diesel,Usados,8074370838,Opel,150 cv,152 000 km,Monovolume,,Manual,,Nacional,
+672,2009,Classe 1,Diesel,Usados,8071577384,BMW,204 cv,176 000 km,Coupé,Série 1,Manual,,,
+673,2013,Classe 1,Diesel,Usados,8072040542,Renault,110 cv,198 000 km,Carrinha,,Manual,,Nacional,
+674,2018,Classe 1,Gasolina,Usados,8070460083,Peugeot,82 cv,8 500 km,Citadino,,Manual,,Nacional,
+675,2010,Classe 1,Diesel,Usados,8072824832,Peugeot,110 cv,148 000 km,Utilitário,,Manual,38-IZ-81,Nacional,
+676,2018,Classe 1,Diesel,Usados,8072567023,MINI,116 cv,12 000 km,Citadino,,Automática,,,
+677,2016,Classe 1,Diesel,Usados,8074033127,Audi,190 cv,40 000 km,Carrinha,,Automática,,Nacional,
+678,2011,Classe 1,Diesel,Usados,8065378779,BMW,143 cv,169 000 km,Citadino,Série 1,Manual,,,
+679,2004,,Diesel,Usados,8073863012,Mazda,135 cv,253 142 km,Carrinha,,,,,
+680,2015,Classe 1,Diesel,Usados,8064856398,Citroën,120 cv,75 000 km,Utilitário,,Manual,08-QJ-59,Nacional,Sim
+681,2006,,Diesel,Usados,8074646022,Volvo,80 cv,159 000 km,Carrinha,,,,,Sim
+682,2016,Classe 1,Gasolina,Usados,8053750428,Audi,367 cv,42 800 km,Utilitário,,Automática,__-XL-__,Importado,Sim
+683,2014,,Diesel,Usados,8061153831,BMW,190 cv,226 000 km,Carrinha,Série 5,Automática,,,
+684,2004,Classe 1,Diesel,Usados,8059598558,Renault,120 cv,240 000 km,Carrinha,,Manual,,,
+685,2019,,Diesel,Usados,8051596547,BMW,190 cv,17 795 km,Sedan,Série 3,Semi-automática,89-XE-73,Nacional,Sim
+686,2002,,Diesel,Usados,8061423280,Mercedes-Benz,180 cv,187 000 km,Carrinha,Classe E,,,,
+687,2013,Classe 1,Diesel,Usados,8074894056,Renault,110 cv,140 000 km,Carrinha,,Manual,31-SD-97,,
+688,2009,,Diesel,Usados,8073320415,BMW,285 cv,104 000 km,Utilitário,Série X,,,,
+689,2011,Classe 1,Diesel,Usados,8069633108,Alfa Romeo,105 cv,165 000 km,Utilitário,,Manual,,Nacional,Sim
+690,2014,Classe 1,Diesel,Usados,8072929673,SEAT,105 cv,113 000 km,Citadino,,Manual,,,
+691,2014,Classe 1,Diesel,Usados,8072929673,SEAT,105 cv,113 000 km,Citadino,,Manual,,,
+692,2005,,Diesel,Usados,8074647271,Opel,70 cv,204 000 km,Citadino,,,,,
+693,2015,Classe 1,Diesel,Usados,8064856398,Citroën,120 cv,75 000 km,Utilitário,,Manual,08-QJ-59,Nacional,Sim
+694,2008,Classe 1,Diesel,Usados,8074033666,BMW,177 cv,244 863 km,Coupé,Série 3,Manual,,Nacional,Sim
+695,2016,Classe 1,Híbrido (Diesel),Usados,8075647710,Volvo,285 cv,100 040 km,Carrinha,,Automática,65-SC-38,Nacional,
+696,2019,,Gasolina,Usados,8073832234,Mazda,90 cv,7 000 km,Citadino,,,,,Sim
+697,2019,,Diesel,Usados,8051596547,BMW,190 cv,17 795 km,Sedan,Série 3,Semi-automática,89-XE-73,Nacional,Sim
+698,2014,Classe 1,Diesel,Usados,8069057568,Alfa Romeo,175 cv,93 000 km,Utilitário,,Automática,,Nacional,
+699,2016,,Diesel,Usados,8046035567,Audi,150 cv,110 000 km,Sedan,,Manual,,,
+700,2017,Classe 1,Diesel,Usados,8073660313,Mercedes-Benz,204 cv,83 500 km,SUV / TT,Classe GLC,Automática,,Nacional,Sim
+701,2013,,Diesel,Usados,8033945441,Renault,105 cv,150 000 km,Coupé,,,,,
+702,1978,,Gasolina,Usados,8073442420,MG,120 cv,77 000 km,Cabrio,,Manual,,,
+703,2019,Classe 1,Gasolina,Usados,8073837148,Abarth,165 cv,8 000 km,Citadino,,Manual,,Nacional,Sim
+704,2019,,Diesel,Usados,8074668572,Peugeot,102 cv,22 404 km,Citadino,,Manual,,Importado,
+705,2014,,Híbrido (Diesel),Usados,8053734644,Peugeot,200 cv,205 000 km,Carrinha,,Automática,,,
+706,2016,Classe 1,Híbrido (Diesel),Usados,8075647710,Volvo,285 cv,100 040 km,Carrinha,,Automática,65-SC-38,Nacional,
+707,2016,,Diesel,Usados,8065730605,BMW,116 cv,99 000 km,Utilitário,Série 1,Manual,,Nacional,Sim
+708,2010,Classe 1,Diesel,Usados,8072023344,Audi,105 cv,117 749 km,Cabrio,,Manual,,,
+709,2009,Classe 1,Diesel,Usados,8073659995,Ford,109 cv,227 101 km,Carrinha,,Manual,72-HT-22,Nacional,
+710,2001,,Diesel,Usados,8073777184,Mercedes-Benz,163 cv,282 000 km,SUV / TT,Classe M,Manual,,,Sim
+711,2010,Classe 1,Diesel,Usados,8070573956,Mercedes-Benz,201 cv,195 000 km,Sedan,Classe E,Automática,,,
+712,2010,Classe 1,Diesel,Usados,8050877588,VW,185 cv,218 000 km,Utilitário,,Manual,,,
+713,1991,Classe 2,Diesel,Usados,8074632432,UMM,70 cv,277 500 km,SUV / TT,,Manual,,Nacional,
+714,2015,,Diesel,Usados,8071850859,Peugeot,68 cv,46 500 km,Citadino,,,,,
+715,2013,Classe 1,Híbrido (Diesel),Usados,8072585967,Volvo,284 cv,150 000 km,Carrinha,,Automática,,,Sim
+716,2014,Classe 1,Diesel,Usados,8060572274,Volvo,214 cv,98 000 km,SUV / TT,,Automática,,Importado,
+717,2015,Classe 1,Híbrido (Gasolina),Usados,8072584274,VW,204 cv,135 000 km,Utilitário,,Automática,,,
+718,2016,Classe 1,Diesel,Usados,8060394812,BMW,116 cv,61 934 km,Utilitário,Série 1,Manual,,Nacional,
+719,2016,Classe 1,Diesel,Usados,8073647212,BMW,150 cv,60 000 km,SUV / TT,Série X,Manual,,Nacional,
+720,2017,,Diesel,Usados,8075630365,Renault,110 cv,83 250 km,Monovolume,,Automática,,,Sim
+721,2019,Classe 1,Diesel,Usados,8075585452,Renault,85 cv,9 000 km,Citadino,,Manual,,Nacional,
+722,2012,Classe 1,Diesel,Usados,8073593279,Volvo,115 cv,147 000 km,Carrinha,,Manual,,,
+723,1984,,Gasolina,Usados,8066971732,Mercedes-Benz,240 cv,79 000 km,Sedan,Classe S,,,,Sim
+724,2019,Classe 1,Diesel,Usados,8073198296,Mercedes-Benz,116 cv,2 500 km,Utilitário,Classe A,Automática,,Nacional,
+725,2010,Classe 1,Diesel,Usados,8073641961,Mercedes-Benz,170 cv,103 000 km,SUV / TT,Classe GLK,Manual,,Nacional,
+726,2015,,Diesel,Usados,8075113541,Citroën,100 cv,57 500 km,Utilitário,,Automática,,Nacional,Sim
+727,2015,Classe 1,Diesel,Usados,8074645771,Peugeot,120 cv,105 000 km,SUV / TT,,Manual,,Importado,
+728,1994,,Gasolina,Usados,8035464429,BMW,340 cv,140 000 km,Sedan,Série 5,,,,
+729,2017,,Diesel,Usados,8073635900,Fiat,95 cv,48 000 km,Utilitário,,,,,
+730,2015,Classe 1,Diesel,Usados,8074645782,VW,110 cv,37 000 km,Utilitário,,Automática,,Nacional,
+731,2000,Classe 1,Diesel,Usados,8062807697,Mercedes-Benz,197 cv,310 000 km,Carrinha,Classe E,Automática,,Nacional,
+732,1990,Classe 2,Diesel,Usados,8073634156,UMM,110 cv,186 000 km,SUV / TT,,Manual,IX-07-12,Nacional,
+733,2016,Classe 1,Gasolina,Usados,8025153321,Smart,71 cv,33 000 km,Pequeno citadino,,Manual,,,
+734,2006,,Gasolina,Usados,8074635806,Suzuki,105 cv,112 000 km,SUV / TT,,Manual,,Nacional,
+735,2019,Classe 1,Diesel,Usados,8073198296,Mercedes-Benz,116 cv,2 500 km,Utilitário,Classe A,Automática,,Nacional,
+736,2002,Classe 1,Gasolina,Usados,8073828016,Fiat,80 cv,208 000 km,Utilitário,,Manual,,Nacional,
+737,2013,Classe 1,Híbrido (Diesel),Usados,8073822315,Citroën,200 cv,156 000 km,Utilitário,,Automática,10-TF-48,Importado,
+738,2017,,Gasolina,Usados,8066201382,MINI,230 cv,32 000 km,Utilitário,,Automática,,,
+739,2007,Classe 1,Gasolina,Usados,8075619880,Chevrolet,94 cv,99 896 km,Citadino,,Manual,,Nacional,
+740,2019,Classe 1,Diesel,Usados,8075585452,Renault,85 cv,9 000 km,Citadino,,Manual,,Nacional,
+741,2012,,Diesel,Usados,8073821897,Smart,55 cv,90 000 km,Pequeno citadino,,,,,
+742,1982,,Gasolina,Usados,8042598803,BMW,211 cv,200 000 km,Coupé,Série 6,,,,Sim
+743,1997,,Gasolina,Usados,8001001384,Bentley,325 cv,101 000 km,Sedan,,,,,
+744,2016,Classe 2,Diesel,Usados,8071599050,Mercedes-Benz,170 cv,145 000 km,Carrinha,Classe C,Automática,,Importado,
+745,2015,,Diesel,Usados,8071842751,Mercedes-Benz,200 cv,55 000 km,Cabrio,Classe E,Automática,,Nacional,
+746,2007,Classe 1,Gasolina,Usados,8075619880,Chevrolet,94 cv,99 896 km,Citadino,,Manual,,Nacional,
+747,2010,Classe 1,Diesel,Usados,8075110321,Mercedes-Benz,231 cv,155 000 km,Coupé,Classe E,Automática,,Nacional,
+748,2015,Classe 1,Diesel,Usados,8073319560,Opel,95 cv,68 050 km,Carrinha,,Manual,,Nacional,
+749,2014,Classe 1,Gasolina,Usados,8074644740,Fiat,69 cv,51 400 km,Pequeno citadino,,Manual,,Importado,
+750,2010,Classe 1,Diesel,Usados,8074536419,BMW,204 cv,320 000 km,Carrinha,Série 5,Automática,,Nacional,
+751,2017,,Diesel,Usados,8075630365,Renault,110 cv,83 250 km,Monovolume,,Automática,,,Sim
+752,2006,Classe 1,Diesel,Usados,8073998744,Audi,170 cv,225 000 km,Utilitário,,Manual,00-CB-00,Nacional,
+753,2009,Classe 1,Gasolina,Usados,8065811382,Mazda,74 cv,87 000 km,Citadino,,Manual,,,Sim
+754,2009,Classe 1,Diesel,Usados,8075114121,Smart,61 cv,169 000 km,Citadino,,Semi-automática,,,
+755,2017,,Diesel,Usados,8073822947,Peugeot,120 cv,117 000 km,Carrinha,,,,,
+756,2018,Classe 1,Eléctrico,Usados,8073829731,Nissan,150 cv,16 500 km,Utilitário,,Automática,,,
+757,2007,,Diesel,Usados,8074635254,SEAT,105 cv,192 000 km,Utilitário,,Manual,,Nacional,
+758,2016,Classe 1,Diesel,Usados,8073822362,Nissan,110 cv,99 000 km,SUV / TT,,Manual,,Nacional,
+759,2007,Classe 1,Diesel,Usados,8055355187,SEAT,110 cv,182 000 km,Citadino,,Manual,,,
+760,2007,,Gasolina,Usados,8043562444,MINI,130 cv,80 000 km,Citadino,,Manual,,,Sim
+761,2016,Classe 1,Eléctrico,Usados,8071944669,BMW,170 cv,32 991 km,Utilitário,Série i,Automática,,,
+762,2011,Classe 1,Gasolina,Usados,8075516702,Fiat,85 cv,124 900 km,Pequeno citadino,,Manual,,,
+763,2014,Classe 1,Diesel,Usados,8075109243,Nissan,90 cv,148 991 km,Utilitário,,Manual,,,
+764,2016,Classe 1,Diesel,Usados,8074223217,Renault,110 cv,109 206 km,Carrinha,,Manual,00-00-00,,Sim
+765,2016,Classe 1,Diesel,Usados,8073631593,SEAT,110 cv,140 991 km,Carrinha,,Manual,,Nacional,
+766,2010,Classe 1,Diesel,Usados,8075110471,Peugeot,112 cv,122 992 km,SUV / TT,,Manual,,Nacional,
+767,2017,Classe 1,Diesel,Usados,8073713716,Peugeot,120 cv,138 991 km,SUV / TT,,Manual,,,
+768,2015,Classe 1,Diesel,Usados,8075109909,Peugeot,120 cv,150 000 km,Carrinha,,Manual,,Nacional,
+769,2009,,Diesel,Usados,8073821130,BMW,204 cv,118 000 km,Coupé,Série 1,,,,Sim
+770,2016,Classe 1,Diesel,Usados,8073992822,Renault,110 cv,138 993 km,Carrinha,,Automática,,,
+771,2017,,Gasolina,Usados,8057871096,Mercedes-Benz,585 cv,12 000 km,Sedan,Classe S,,,,
+772,2017,Classe 1,Gasolina,Usados,8066778563,Audi,95 cv,37 991 km,Citadino,,Manual,,,
+773,2019,Classe 1,Gasolina,Usados,8075596963,Renault,90 cv,17 000 km,SUV / TT,,Manual,,Nacional,
+774,2015,Classe 1,Diesel,Usados,8070046879,Peugeot,120 cv,150 000 km,Utilitário,,Manual,,,
+775,2002,,Diesel,Usados,8075107824,Audi,130 cv,240 000 km,Carrinha,,,,,
+776,2011,Classe 1,Diesel,Usados,8074282599,BMW,116 cv,226 000 km,Utilitário,Série 1,Manual,38-OI-37,,
+777,2017,Classe 1,Diesel,Usados,8064988947,Peugeot,120 cv,118 991 km,Carrinha,,Manual,,,
+778,2017,Classe 1,Diesel,Usados,8067478182,Peugeot,120 cv,118 991 km,SUV / TT,,Manual,,,
+779,2019,Classe 1,Gasolina,Usados,8075596963,Renault,90 cv,17 000 km,SUV / TT,,Manual,,Nacional,
+780,2005,Classe 3,Diesel,Usados,8073991126,Renault,100 cv,145 000 km,Carrinha,,Manual,,Importado,Sim
+781,2017,Classe 1,Diesel,Usados,8070087253,Peugeot,100 cv,120 991 km,Utilitário,,Manual,,,
+782,2012,,Diesel,Usados,8073821897,Smart,55 cv,90 000 km,Pequeno citadino,,,,,
+783,2007,,Gasolina,Usados,8043562444,MINI,130 cv,80 000 km,Citadino,,Manual,,,Sim
+784,2016,Classe 1,Diesel,Usados,8074223217,Renault,110 cv,109 206 km,Carrinha,,Manual,00-00-00,,Sim
+785,2011,Classe 1,Gasolina,Usados,8075516702,Fiat,85 cv,124 900 km,Pequeno citadino,,Manual,,,
+786,2016,Classe 1,Diesel,Usados,8073394503,Renault,110 cv,150 000 km,Carrinha,,Manual,,,
+787,2016,Classe 1,Gasolina,Usados,8070070429,Smart,90 cv,43 500 km,Cabrio,,Automática,,Nacional,
+788,2012,Classe 1,Diesel,Usados,8073820446,BMW,184 cv,205 000 km,Sedan,Série 3,Manual,17-QM-10,Importado,
+789,2018,Classe 1,Diesel,Usados,8067190136,Volvo,190 cv,84 000 km,SUV / TT,,Automática,,,
+790,2017,Classe 1,Diesel,Usados,8075108435,Peugeot,120 cv,130 991 km,Carrinha,,Manual,,,
+791,2011,Classe 1,Diesel,Usados,8072007503,VW,185 cv,190 000 km,Carrinha,,Manual,,Nacional,Sim
+792,2017,Classe 1,Híbrido (Gasolina),Usados,8064057352,BMW,136 cv,37 991 km,Monovolume,Série 2,Automática,,,
+793,2013,,Diesel,Usados,8074080159,Skoda,110 cv,225 000 km,Carrinha,,Manual,,Nacional,
+794,2017,,Diesel,Usados,8074323048,MINI,116 cv,62 000 km,Carrinha,,Manual,,,
+795,2010,,Híbrido (Gasolina),Usados,8073312388,Porsche,245 cv,280 km,SUV / TT,,,,,
+796,2015,Classe 1,Diesel,Usados,8073395903,Renault,90 cv,100 000 km,Carrinha,,Manual,,,
+797,2010,,Diesel,Usados,8074639004,Nissan,231 cv,148 000 km,SUV / TT,,Automática,,Nacional,
+798,2015,Classe 1,Diesel,Usados,8074443717,Audi,90 cv,138 991 km,Citadino,,Manual,,,
+799,2015,Classe 1,Diesel,Usados,8070380163,VW,110 cv,138 991 km,Utilitário,,Manual,,,
+800,2017,,Diesel,Usados,8066210205,Volvo,120 cv,30 000 km,Utilitário,,,78-TS-96,Nacional,
+801,2016,Classe 1,Diesel,Usados,8075591793,Mercedes-Benz,204 cv,49 356 km,Coupé,Classe C,Automática,,Nacional,
+802,2015,Classe 1,Diesel,Usados,8069314253,Audi,136 cv,106 131 km,Carrinha,,Manual,03-PL-56,Nacional,
+803,2009,,Diesel,Usados,8071838499,Toyota,126 cv,230 000 km,Carrinha,,,,,
+804,1999,Classe 1,Diesel,Usados,8072482710,VW,150 cv,256 000 km,Utilitário,,Manual,,,Sim
+805,2011,Classe 1,Diesel,Usados,8074625322,Mercedes-Benz,204 cv,221 000 km,Coupé,Classe E,Automática,,Nacional,Sim
+806,2003,,Diesel,Usados,8060096942,BMW,188 cv,185 000 km,SUV / TT,Série X,Automática,,Nacional,
+807,2001,,GPL,Usados,8073624795,Mercedes-Benz,347 cv,230 000 km,SUV / TT,Classe M,,,,
+808,2017,,Gasolina,Usados,8067598534,BMW,450 cv,33 500 km,Coupé,Série 4,Automática,,,
+809,2007,Classe 1,Gasolina,Usados,8063980168,Suzuki,125 cv,149 000 km,Citadino,,Manual,,,
+810,2017,Classe 1,Diesel,Usados,8074637415,Renault,90 cv,73 000 km,Citadino,,Manual,,,
+811,2016,Classe 2,Diesel,Usados,8059197247,BMW,440 cv,32 000 km,SUV / TT,Série X,Automática,,Nacional,Sim
+812,2015,,Diesel,Usados,8075645969,BMW,115 cv,160 000 km,SUV / TT,Série 2,,,,
+813,2002,,Diesel,Usados,8074859700,Audi,75 cv,315 000 km,Utilitário,,,,,Sim
+814,2009,,Gasolina,Usados,8065691019,Ferrari,460 cv,70 000 km,Coupé,,,,,Sim
+815,2018,Classe 1,Diesel,Usados,8045399540,Mercedes-Benz,177 cv,35 000 km,Sedan,Classe CLA,Automática,,Nacional,
+816,2014,Classe 1,Diesel,Usados,8073625801,Nissan,110 cv,127 000 km,SUV / TT,,Manual,,,
+817,2013,Classe 1,Diesel,Usados,8064107736,BMW,218 cv,165 000 km,Sedan,Série 5,Automática,,,
+818,2016,Classe 1,Diesel,Usados,8075591793,Mercedes-Benz,204 cv,49 356 km,Coupé,Classe C,Automática,,Nacional,
+819,2017,,Diesel,Usados,8074637219,Peugeot,100 cv,61 000 km,Utilitário,,Manual,,,
+820,2015,,Diesel,Usados,8075645969,BMW,115 cv,160 000 km,SUV / TT,Série 2,,,,
+821,2010,Classe 1,Diesel,Usados,8073808804,Citroën,75 cv,98 740 km,Citadino,,Manual,,Nacional,
+822,2004,Classe 1,Gasolina,Usados,8074609534,Citroën,60 cv,101 000 km,Citadino,,Manual,,Nacional,Sim
+823,2015,Classe 1,Diesel,Usados,8069734076,Peugeot,120 cv,133 000 km,Carrinha,,Manual,,Importado,
+824,2011,,Diesel,Usados,8073984161,MINI,112 cv,109 800 km,Citadino,,Manual,,,
+825,2018,Classe 1,Híbrido (Gasolina),Usados,8053782018,Mercedes-Benz,295 cv,60 000 km,Carrinha,Classe C,Automática,,Importado,
+826,2010,Classe 1,Diesel,Usados,8073811466,BMW,245 cv,420 000 km,Sedan,Série 7,Automática,,Nacional,
+827,2003,,Gasolina,Usados,8074637511,Citroën,60 cv,149 700 km,Citadino,,Manual,,,Sim
+828,2004,,Gasolina,Usados,8074454791,Smart,61 cv,110 000 km,Cabrio,,Automática,,Nacional,
+829,2015,Classe 1,Diesel,Usados,8067908990,Mercedes-Benz,110 cv,104 851 km,SUV / TT,Classe GLA,Manual,00-00-00,,
+830,2008,Classe 1,Diesel,Usados,8068890926,VW,140 cv,204 248 km,Utilitário,,Manual,,,
+831,2008,Classe 1,Diesel,Usados,8074635965,BMW,177 cv,250 000 km,Sedan,Série 5,Automática,,Nacional,
+832,2001,Classe 1,Diesel,Usados,8074700163,Mercedes-Benz,143 cv,250 000 km,Citadino,Classe C,Manual,,,
+833,2016,,Diesel,Usados,8061751908,Renault,115 cv,122 195 km,Carrinha,,Automática,,,
+834,2013,Classe 1,Gasolina,Usados,8061905177,MINI,184 cv,70 000 km,Citadino,,Manual,,Nacional,
+835,2011,,Diesel,Usados,8073988033,Opel,90 cv,120 000 km,Utilitário,,Manual,,,
+836,2018,Classe 1,Híbrido (Gasolina),Usados,8053782018,Mercedes-Benz,295 cv,60 000 km,Carrinha,Classe C,Automática,,Importado,
+837,2012,Classe 1,Diesel,Usados,8074635840,BMW,313 cv,184 000 km,Coupé,Série 6,Automática,,,Sim
+838,2017,,Diesel,Usados,8066210205,Volvo,120 cv,30 000 km,Utilitário,,,78-TS-96,Nacional,
+839,2010,Classe 1,Diesel,Usados,8033460849,BMW,143 cv,124 600 km,SUV / TT,Série X,Automática,,Nacional,Sim
+840,2017,,Diesel,Usados,8072429519,Land Rover,150 cv,55 000 km,SUV / TT,,Manual,,Nacional,
+841,2002,,Diesel,Usados,8074305889,BMW,163 cv,322 000 km,Sedan,Série 5,,,,Sim
+842,2018,Classe 1,Gasolina,Usados,8074633921,Fiat,69 cv,26 400 km,Cabrio,,Manual,,,
+843,2016,,Diesel,Usados,8070450326,BMW,190 cv,115 000 km,Utilitário,Série 1,Automática,,,
+844,2009,,Diesel,Usados,8069778291,BMW,286 cv,204 000 km,SUV / TT,Série X,Automática,,Nacional,
+845,2010,Classe 1,Diesel,Usados,8074698644,Smart,54 cv,85 000 km,Pequeno citadino,,Semi-automática,06-IV-45,,
+846,2019,Classe 1,Gasolina,Usados,8072060589,Nissan,100 cv,17 750 km,Citadino,,Manual,,Nacional,
+847,2018,Classe 1,Diesel,Usados,8072252181,Nissan,110 cv,24 900 km,SUV / TT,,Manual,,Nacional,
+848,2018,Classe 1,Diesel,Usados,8072258681,Nissan,110 cv,25 850 km,SUV / TT,,Manual,,Nacional,
+849,2018,,Diesel,Usados,8072802841,Mercedes-Benz,204 cv,26 000 km,SUV / TT,Classe GLC,Automática,,,
+850,2017,,Diesel,Usados,8073810290,VW,115 cv,101 111 km,Carrinha,,Manual,,Nacional,
+851,2017,Classe 1,Diesel,Usados,8074697878,Renault,110 cv,45 000 km,Citadino,,Manual,,Nacional,
+852,2008,Classe 1,Diesel,Usados,8056624305,Audi,300 cv,178 000 km,Coupé,,Semi-automática,,Nacional,
+853,2019,,Diesel,Usados,8067818812,Mercedes-Benz,194 cv,18 000 km,Carrinha,Classe E,Semi-automática,84-XA-46,Nacional,Sim
+854,2015,Classe 1,Diesel,Usados,8067908990,Mercedes-Benz,110 cv,104 851 km,SUV / TT,Classe GLA,Manual,00-00-00,,
+855,2015,Classe 1,Diesel,Usados,8069494012,Mercedes-Benz,110 cv,200 000 km,Sedan,Classe CLA,Manual,,,Sim
+856,2012,,Eléctrico,Usados,8070890430,Opel,150 cv,130 000 km,Sedan,,,,,
+857,2002,Classe 1,Diesel,Usados,8074633540,Opel,65 cv,230 000 km,Citadino,,Manual,,,
+858,2016,Classe 1,Híbrido (Gasolina),Usados,8073981256,BMW,252 cv,51 950 km,Sedan,Série 3,Automática,,Importado,Sim
+859,2015,Classe 1,Diesel,Usados,8063904267,Mercedes-Benz,136 cv,160 000 km,Carrinha,Classe C,Automática,,,
+860,2015,,Diesel,Usados,8074309965,Peugeot,120 cv,150 000 km,Carrinha,,,,,
+861,2015,,Diesel,Usados,8074309965,Peugeot,120 cv,150 000 km,Carrinha,,,,,
+862,2001,,GPL,Usados,8073624795,Mercedes-Benz,347 cv,230 000 km,SUV / TT,Classe M,,,,
+863,2016,Classe 1,Diesel,Usados,8067496198,Volvo,120 cv,100 000 km,Utilitário,,Automática,,Importado,
+864,2015,Classe 1,Gasolina,Usados,8073095510,Smart,71 cv,33 400 km,Pequeno citadino,,Manual,,,
+865,2012,Classe 1,Diesel,Usados,8063067390,Renault,110 cv,160 000 km,Carrinha,,Manual,00-00-00,Nacional,Sim
+866,2018,,Gasolina,Usados,8073304525,Smart,90 cv,5 667 km,Pequeno citadino,,Automática,,Nacional,Sim
+867,2015,Classe 1,Diesel,Usados,8073811619,Peugeot,120 cv,165 000 km,Citadino,,Manual,,Importado,
+868,2013,Classe 1,Gasolina,Usados,8071097697,Renault,66 cv,82 738 km,Citadino,,Manual,,Nacional,
+869,2009,Classe 1,Híbrido (Gasolina),Usados,8074310602,Honda,115 cv,75 777 km,Utilitário,,Automática,,Nacional,Sim
+870,2018,,Diesel,Usados,8072802841,Mercedes-Benz,204 cv,26 000 km,SUV / TT,Classe GLC,Automática,,,
+871,2007,Classe 1,Gasolina,Usados,8073981726,Mercedes-Benz,388 cv,57 000 km,Coupé,Classe CL,Automática,,Nacional,
+872,2003,,Gasolina,Usados,8071782037,Mercedes-Benz,163 cv,69 000 km,Utilitário,Classe CLK,Manual,,,Sim
+873,2014,Classe 1,Diesel,Usados,8073618107,BMW,224 cv,195 000 km,Coupé,Série 2,Automática,,,
+874,2015,Classe 1,Gasolina,Usados,8073095510,Smart,71 cv,33 400 km,Pequeno citadino,,Manual,,,
+875,2007,Classe 1,Diesel,Usados,8063802466,Renault,105 cv,173 500 km,Monovolume,,Manual,,Nacional,Sim
+876,2019,,Diesel,Usados,8067818812,Mercedes-Benz,194 cv,18 000 km,Carrinha,Classe E,Semi-automática,84-XA-46,Nacional,Sim
+877,2016,,Diesel,Usados,8073809837,Audi,190 cv,160 000 km,Carrinha,,Automática,,Importado,
+878,2002,Classe 1,Diesel,Usados,8072379352,VW,100 cv,163 531 km,Utilitário,,Manual,,Importado,Sim
+879,1991,Classe 1,Gasolina,Usados,8073304037,Suzuki,60 cv,47 789 km,SUV / TT,,Manual,,,
+880,2015,,Diesel,Usados,8070646946,VW,150 cv,141 046 km,Sedan,,Manual,52QQ13,,Sim
+881,2017,Classe 1,Diesel,Usados,8074302764,Peugeot,100 cv,48 000 km,SUV / TT,,Automática,,,
+882,2015,,Híbrido (Gasolina),Usados,8072065927,Toyota,99 cv,62 017 km,Sedan,,Automática,89PN12,,Sim
+883,2015,,Diesel,Usados,8073774300,VW,90 cv,77 096 km,Utilitário,,Manual,55PU88,,Sim
+884,2015,,Diesel,Usados,8072065201,Toyota,143 cv,127 534 km,Sedan,,Manual,47QO58,,Sim
+885,2017,Classe 1,Diesel,Usados,8074302764,Peugeot,100 cv,48 000 km,SUV / TT,,Automática,,,
+886,2015,Classe 1,Diesel,Usados,8073301904,BMW,116 cv,99 500 km,Utilitário,Série 1,Automática,,Importado,Sim
+887,2015,,Diesel,Usados,8073763682,VW,90 cv,89 945 km,Utilitário,,Manual,76QE64,,Sim
+888,2016,,Diesel,Usados,8071890599,Toyota,90 cv,54 067 km,Utilitário,,Manual,78RU11,,Sim
+889,2015,,Diesel,Usados,8073763736,Volvo,181 cv,107 646 km,Sedan,,Manual,47PR86,,Sim
+890,2017,Classe 1,Diesel,Usados,8064855446,Mercedes-Benz,136 cv,140 000 km,Sedan,Classe C,Manual,,,Sim
+891,2015,,Diesel,Usados,8069117276,VW,105 cv,125 161 km,Carrinha,,Manual,56QC29,,Sim
+892,2015,,Diesel,Usados,8073763561,VW,105 cv,92 404 km,Carrinha,,Manual,87QE00,,Sim
+893,2015,,Gasolina,Usados,8073763693,Smart,71 cv,52 900 km,Coupé,,Manual,90QI41,,Sim
+894,2016,,Diesel,Usados,8072064477,VW,120 cv,64 555 km,Carrinha,,Manual,40RR27,,Sim
+895,2015,,Diesel,Usados,8072989130,Renault,160 cv,105 000 km,Monovolume,,,,,
+896,2015,,Diesel,Usados,8073763767,VW,90 cv,77 428 km,Utilitário,,Manual,01PU42,,Sim
+897,2013,Classe 1,Diesel,Usados,8075062233,Citroën,110 cv,141 232 km,Monovolume,,Automática,,Importado,Sim
+898,2018,,Diesel,Usados,8073763718,Volvo,190 cv,31 713 km,Sedan,,Automática,86VH80,,Sim
+899,2015,Classe 1,Diesel,Usados,8074631779,Mercedes-Benz,136 cv,138 000 km,Carrinha,Classe C,Automática,,,
+900,2018,Classe 1,Diesel,Usados,8074376793,Mercedes-Benz,110 cv,46 700 km,Utilitário,Classe A,Manual,,,Sim
+901,2018,Classe 1,Diesel,Usados,8074376793,Mercedes-Benz,110 cv,46 700 km,Utilitário,Classe A,Manual,,,Sim
+902,2007,,Gasolina,Usados,8073683792,Porsche,245 cv,40 000 km,Coupé,,Manual,,,
+903,2015,,Diesel,Usados,8073764000,VW,110 cv,108 148 km,Carrinha,,Manual,23PU10,,Sim
+904,2016,,Diesel,Usados,8072324141,VW,75 cv,24 731 km,Citadino,,Manual,40SC73,,Sim
+905,2019,Classe 1,Diesel,Usados,8070651396,BMW,116 cv,67 km,SUV / TT,Série X,,,Nacional,Sim
+906,2014,Classe 1,Diesel,Usados,8074290439,Renault,110 cv,172 000 km,Carrinha,,Manual,,,
+907,2017,,Diesel,Usados,8073765047,Volvo,190 cv,90 313 km,Carrinha,,Automática,19TS42,,Sim
+908,2003,Classe 1,Diesel,Usados,8069005957,Mercedes-Benz,177 cv,246 000 km,Sedan,Classe E,Manual,13-79-VR,Nacional,
+909,2017,,Diesel,Usados,8071892439,SEAT,115 cv,123 165 km,Carrinha,,Manual,42TB74,,Sim
+910,2011,,GPL,Usados,8074624893,Chevrolet,90 cv,154 500 km,Citadino,,,,,Sim
+911,2015,,Diesel,Usados,8072989130,Renault,160 cv,105 000 km,Monovolume,,,,,
+912,2006,,Gasolina,Usados,8071572059,Ford,80 cv,177 000 km,Carrinha,,,,,
+913,2015,,Diesel,Usados,8071977100,Toyota,90 cv,49 321 km,Citadino,,Manual,45PN17,,Sim
+914,2015,,Diesel,Usados,8070309138,VW,90 cv,118 385 km,Utilitário,,Manual,67PR36,,Sim
+915,2019,,Eléctrico,Usados,8074305800,Tesla,520 cv,7 000 km,SUV / TT,,,,,
+916,1987,,Diesel,Usados,8073718195,Nissan,90 cv,339 600 km,SUV / TT,,,,,
+917,2017,Classe 1,Diesel,Usados,8064855446,Mercedes-Benz,136 cv,140 000 km,Sedan,Classe C,Manual,,,Sim
+918,2015,,Diesel,Usados,8069107918,VW,150 cv,123 610 km,Sedan,,Manual,12QH69,,Sim
+919,2013,,Diesel,Usados,8072575630,VW,105 cv,20 500 km,Cabrio,,Automática,,,
+920,2008,Classe 2,Diesel,Usados,8052914668,BMW,286 cv,140 000 km,SUV / TT,Série X,Automática,,Nacional,
+921,2016,,Diesel,Usados,8073763609,Renault,90 cv,76 867 km,Citadino,,Manual,16RR73,,Sim
+922,2016,,Gasolina,Usados,8071891095,SEAT,75 cv,26 477 km,Utilitário,,Manual,68SD87,,Sim
+923,2015,,Diesel,Usados,8073764002,Renault,90 cv,75 112 km,Citadino,,Manual,60QH01,,Sim
+924,2017,,Diesel,Usados,8073765089,Renault,90 cv,49 814 km,Citadino,,Manual,30TR53,,Sim
+925,2015,,Diesel,Usados,8069465115,Renault,95 cv,86 963 km,Carrinha,,Manual,56PO74,,Sim
+926,2015,,Diesel,Usados,8075697555,BMW,190 cv,60 000 km,Utilitário,Série 1,Manual,,Nacional,
+927,2016,,Gasolina,Usados,8069465975,SEAT,75 cv,46 789 km,Utilitário,,Manual,32SE17,,Sim
+928,2017,,Diesel,Usados,8072187326,Renault,110 cv,80 659 km,Carrinha,,Manual,54TE05,,Sim
+929,2015,,Diesel,Usados,8071919152,Renault,110 cv,116 552 km,Carrinha,,Manual,63QG70,,Sim
+930,2015,,Diesel,Usados,8071890508,Renault,95 cv,86 439 km,Carrinha,,Manual,84QL43,,Sim
+931,2015,,Diesel,Usados,8070655358,Renault,95 cv,99 792 km,Carrinha,,Manual,11PO97,,Sim
+932,2016,,Diesel,Usados,8070646796,Renault,90 cv,89 417 km,Citadino,,Manual,21RJ37,,Sim
+933,2005,Classe 1,Diesel,Usados,8056505919,Mercedes-Benz,170 cv,160 000 km,Coupé,Classe CLK,Automática,,Nacional,
+934,2008,Classe 2,Diesel,Usados,8052914668,BMW,286 cv,140 000 km,SUV / TT,Série X,Automática,,Nacional,
+935,2005,Classe 1,Diesel,Usados,8056505919,Mercedes-Benz,170 cv,160 000 km,Coupé,Classe CLK,Automática,,Nacional,
+936,2015,,Diesel,Usados,8072324475,SEAT,110 cv,91 535 km,Carrinha,,Manual,81PV55,,Sim
+937,2016,,Gasolina,Usados,8073763672,SEAT,75 cv,32 830 km,Utilitário,,Manual,91SC00,,Sim
+938,2015,,Diesel,Usados,8073763662,Renault,110 cv,104 013 km,Carrinha,,Manual,20QN50,,Sim
+939,2017,,Diesel,Usados,8073763714,Renault,90 cv,46 307 km,Citadino,,Manual,45TR74,,Sim
+940,2018,,Diesel,Usados,8073763684,Renault,110 cv,87 601 km,SUV / TT,,Manual,17VP64,,Sim
+941,2015,Classe 1,Diesel,Usados,8070083261,Volvo,181 cv,77 800 km,SUV / TT,,Manual,,Nacional,
+942,2015,,Diesel,Usados,8073763997,Renault,90 cv,95 769 km,Citadino,,Manual,51QD51,,Sim
+943,2017,,Diesel,Usados,8073763774,Renault,90 cv,64 392 km,Citadino,,Manual,29TF41,,Sim
+944,2016,,Gasolina,Usados,8072855957,SEAT,75 cv,45 053 km,Utilitário,,Manual,45SC18,,Sim
+945,2015,,Diesel,Usados,8075697555,BMW,190 cv,60 000 km,Utilitário,Série 1,Manual,,Nacional,
+946,2016,,Diesel,Usados,8073763702,Renault,110 cv,99 579 km,Utilitário,,Manual,62RZ79,,Sim
+947,2015,,Diesel,Usados,8071918080,Renault,90 cv,127 308 km,Citadino,,Manual,62PQ33,,Sim
+948,2018,,Gasolina,Usados,8073763671,Renault,280 cv,33 093 km,Utilitário,,Automática,94VG12,,Sim
+949,2016,,Diesel,Usados,8073763789,Renault,75 cv,86 331 km,Citadino,,Manual,47RQ78,,Sim
+950,2015,,Diesel,Usados,8073763552,SEAT,110 cv,104 665 km,Utilitário,,Manual,65QN54,,Sim
+951,2017,,Diesel,Usados,8070634957,Renault,110 cv,66 887 km,Carrinha,,Manual,36TV85,,Sim
+952,2016,,Gasolina,Usados,8073763633,SEAT,75 cv,29 400 km,Utilitário,,Manual,45SC16,,Sim
+953,2015,Classe 1,Diesel,Usados,8070083261,Volvo,181 cv,77 800 km,SUV / TT,,Manual,,Nacional,
+954,2016,,Diesel,Usados,8073763626,Renault,90 cv,79 007 km,Citadino,,Manual,59SE73,,Sim
+955,2016,,Gasolina,Usados,8073763599,SEAT,75 cv,22 483 km,Utilitário,,Manual,16SC23,,Sim
+956,2016,,Gasolina,Usados,8070311328,SEAT,75 cv,56 104 km,Utilitário,,Manual,44SC99,,Sim
+957,2017,,Diesel,Usados,8070579506,Renault,90 cv,60 023 km,Citadino,,Manual,62TM00,,Sim
+958,2015,,Diesel,Usados,8073763691,Renault,110 cv,83 272 km,Carrinha,,Manual,48QP20,,Sim
+959,2016,,Gasolina,Usados,8073763656,SEAT,75 cv,19 932 km,Utilitário,,Manual,03SD56,,Sim
+960,2008,Classe 2,Diesel,Usados,8052914668,BMW,286 cv,140 000 km,SUV / TT,Série X,Automática,,Nacional,
+961,2015,,Diesel,Usados,8073787295,Mercedes-Benz,116 cv,121 189 km,Carrinha,Classe C,Manual,76QN86,,Sim
+962,2015,,Diesel,Usados,8071896122,Mercedes-Benz,136 cv,117 410 km,Sedan,Classe C,Manual,17QP68,,Sim
+963,2016,,Diesel,Usados,8070647592,Ford,120 cv,137 827 km,Utilitário,,Manual,45SB91,,Sim
+964,2015,,Diesel,Usados,8073763587,Nissan,110 cv,133 743 km,SUV / TT,,Manual,06PT38,,Sim
+965,2016,Classe 1,Diesel,Usados,8044087532,Mercedes-Benz,136 cv,157 943 km,Carrinha,Classe C,Automática,23-XG-89,,Sim
+966,2015,,Diesel,Usados,8069963801,Ford,120 cv,110 084 km,Utilitário,,Manual,45QO98,,Sim
+967,2016,,Diesel,Usados,8072157966,Ford,120 cv,141 470 km,Utilitário,,Manual,45SB95,,Sim
+968,2018,,Diesel,Usados,8069963179,Peugeot,100 cv,116 021 km,Carrinha,,Manual,84UN77,,Sim
+969,2015,,Diesel,Usados,8074497367,Citroën,120 cv,166 976 km,Monovolume,,Manual,60-ZP-96,,Sim
+970,2015,,Diesel,Usados,8073763973,Mercedes-Benz,136 cv,58 524 km,Sedan,Classe C,Manual,47QL86,,Sim
+971,2017,,Diesel,Usados,8072854724,Peugeot,100 cv,43 945 km,Carrinha,,Manual,99TD17,,Sim
+972,2015,,Diesel,Usados,8073863829,Mercedes-Benz,116 cv,118 238 km,Sedan,Classe C,Manual,70QB66,,Sim
+973,2018,,Eléctrico,Usados,8074500630,BMW,170 cv,10 000 km,Utilitário,Série i,Automática,00-00-00,,Sim
+974,2015,,Diesel,Usados,8073765050,Mercedes-Benz,136 cv,71 201 km,SUV / TT,Classe GLA,Manual,87QF70,,Sim
+975,2016,,Diesel,Usados,8073763618,Opel,95 cv,95 245 km,Citadino,,Manual,48RX17,,Sim
+976,2017,,Diesel,Usados,8069965458,Opel,95 cv,36 432 km,Citadino,,Manual,90TU92,,Sim
+977,2015,,Diesel,Usados,8073787421,Nissan,110 cv,32 477 km,SUV / TT,,Manual,70QL74,,Sim
+978,2015,,Diesel,Usados,8073764001,Mercedes-Benz,109 cv,55 439 km,Utilitário,Classe A,Manual,10QH28,,Sim
+979,2017,,Diesel,Usados,8069943373,Peugeot,100 cv,54 334 km,Carrinha,,Manual,14TP76,,Sim
+980,2017,,Gasolina,Usados,8073763595,Ford,80 cv,43 319 km,Citadino,,Manual,63TB80,,Sim
+981,2017,,Diesel,Usados,8073763647,Peugeot,100 cv,100 154 km,Carrinha,,Manual,23TO00,,Sim
+982,2017,,Diesel,Usados,8072809989,Nissan,110 cv,67 486 km,SUV / TT,,Manual,48SR02,,Sim
+983,2016,,Diesel,Usados,8072158130,Ford,120 cv,115 947 km,Utilitário,,Manual,45SB89,,Sim
+984,2017,,Diesel,Usados,8069137496,Peugeot,100 cv,52 026 km,Carrinha,,Manual,05TF81,,Sim
+985,2010,Classe 1,Diesel,Usados,8062628411,BMW,204 cv,190 000 km,Carrinha,Série 5,Automática,,Nacional,
+986,2014,,Diesel,Usados,8073763780,Ford,115 cv,118 417 km,Monovolume,,Manual,51OP82,,Sim
+987,2018,,Eléctrico,Usados,8074500630,BMW,170 cv,10 000 km,Utilitário,Série i,Automática,00-00-00,,Sim
+988,2004,Classe 1,Gasolina,Usados,8074631426,Porsche,260 cv,65 504 km,Cabrio,,Manual,,Nacional,
+989,2015,,Diesel,Usados,8074497367,Citroën,120 cv,166 976 km,Monovolume,,Manual,60-ZP-96,,Sim
+990,2016,Classe 1,Diesel,Usados,8044087532,Mercedes-Benz,136 cv,157 943 km,Carrinha,Classe C,Automática,23-XG-89,,Sim
+991,2016,,Diesel,Usados,8073780094,Opel,110 cv,58 896 km,Utilitário,,Manual,48SD25,,Sim
+992,2018,,Diesel,Usados,8072325560,Peugeot,120 cv,38 668 km,Carrinha,,Manual,93UV77,,Sim
+993,2015,,Diesel,Usados,8073763972,Opel,136 cv,39 639 km,Utilitário,,Manual,86QJ91,,Sim
+994,2016,,Diesel,Usados,8073763586,Opel,110 cv,126 843 km,Utilitário,,Manual,04SI59,,Sim
+995,2017,,Diesel,Usados,8070345146,Opel,95 cv,82 978 km,Citadino,,Manual,42TH40,,Sim
+996,2008,Classe 2,Diesel,Usados,8052914668,BMW,286 cv,140 000 km,SUV / TT,Série X,Automática,,Nacional,
+997,2017,,Diesel,Usados,8072063929,Opel,95 cv,32 782 km,Citadino,,Manual,42TH10,,Sim
+998,2015,,Diesel,Usados,8070560819,Mercedes-Benz,109 cv,114 979 km,Sedan,Classe CLA,Manual,41PL35,,Sim
+999,2015,,Diesel,Usados,8073763377,Opel,95 cv,59 193 km,Citadino,,Manual,50QC00,,Sim
+1000,2015,,Diesel,Usados,8075606899,BMW,163 cv,101 000 km,SUV / TT,Série X,Manual,,Nacional,
+1001,2018,,Diesel,Usados,8070317723,Fiat,120 cv,82 214 km,Carrinha,,Manual,60VA31,,Sim
+1002,2015,,Diesel,Usados,8073763598,BMW,190 cv,82 470 km,Carrinha,Série 5,Manual,58PN57,,Sim
+1003,2016,,Diesel,Usados,8073763695,BMW,116 cv,73 102 km,Utilitário,Série 1,Manual,75SE12,,Sim
+1004,2018,,Diesel,Usados,8069228452,Fiat,120 cv,70 380 km,Carrinha,,Manual,60VA00,,Sim
+1005,2019,Classe 1,Gasolina,Usados,8074041137,Nissan,140 cv,9 255 km,SUV / TT,,Manual,,,Sim
+1006,2017,,Gasolina,Usados,8073763758,Ford,80 cv,57 192 km,Citadino,,Manual,36TC25,,Sim
+1007,2015,,Diesel,Usados,8073763790,Audi,150 cv,88 189 km,Coupé,,Manual,85QL79,,Sim
+1008,2015,,Diesel,Usados,8075606899,BMW,163 cv,101 000 km,SUV / TT,Série X,Manual,,Nacional,
+1009,2015,,Diesel,Usados,8073763785,Audi,190 cv,113 629 km,Sedan,,Manual,68PQ76,,Sim
+1010,2015,,Diesel,Usados,8073763768,BMW,190 cv,87 698 km,Carrinha,Série 5,Automática,92QD66,,Sim
+1011,2017,Classe 1,Híbrido (Diesel),Usados,8065858671,Volvo,285 cv,22 073 km,Carrinha,,Automática,,,Sim
+1012,2015,,Diesel,Usados,8073770138,BMW,190 cv,55 063 km,Carrinha,Série 5,Automática,54PZ05,,Sim
+1013,2015,,Diesel,Usados,8073801305,BMW,190 cv,75 378 km,Carrinha,Série 5,Automática,49QI16,,Sim
+1014,2015,,Diesel,Usados,8073763770,Audi,150 cv,125 694 km,Utilitário,,Manual,40PM62,,Sim
+1015,2015,,Diesel,Usados,8069227547,BMW,190 cv,66 153 km,Carrinha,Série 5,Automática,74QP78,,Sim
+1016,2018,,Diesel,Usados,8073763635,Fiat,120 cv,65 254 km,Carrinha,,Manual,49VE57,,Sim
+1017,2015,,Diesel,Usados,8073763722,Audi,190 cv,100 636 km,Sedan,,Manual,55PU68,,Sim
+1018,2005,,Diesel,Usados,8073785166,Opel,100 cv,208 000 km,Carrinha,,Manual,14-AV-00,Nacional,
+1019,2018,,Gasolina,Usados,8063238937,Audi,116 cv,20 586 km,Utilitário,,Manual,,,Sim
+1020,2017,,Gasolina,Usados,8073763570,Ford,80 cv,49 706 km,Citadino,,Manual,63TB81,,Sim
+1021,2009,,Diesel,Usados,8074301845,Jeep,177 cv,90 000 km,SUV / TT,,,,,
+1022,2016,,Diesel,Usados,8071822316,Audi,150 cv,98 388 km,Sedan,,Manual,14SC03,,Sim
+1023,2015,,Diesel,Usados,8073763661,BMW,190 cv,89 387 km,Carrinha,Série 5,Manual,08PS19,,Sim
+1024,2018,Classe 1,Gasolina,Usados,8062786456,Renault,90 cv,13 500 km,Carrinha,,Manual,,Nacional,Sim
+1025,2019,,Híbrido (Gasolina),Usados,8069746495,MINI,224 cv,13 669 km,Utilitário,,Automática,,,Sim
+1026,2017,Classe 2,Híbrido (Gasolina),Usados,8071802186,Porsche,416 cv,37 865 km,SUV / TT,,Automática,88-TA-96,Nacional,Sim
+1027,2018,,Diesel,Usados,8073763557,Fiat,120 cv,63 691 km,Carrinha,,Manual,47VE77,,Sim
+1028,2015,Classe 1,Diesel,Usados,8075088581,Mercedes-Benz,231 cv,178 000 km,Carrinha,Classe E,Automática,,Importado,
+1029,2005,Classe 1,Diesel,Usados,8075088583,Alfa Romeo,150 cv,174 000 km,Coupé,,Manual,,Nacional,
+1030,2017,Classe 1,Eléctrico,Usados,8034301189,BMW,170 cv,23 543 km,Utilitário,Série i,Automática,,,Sim
+1031,2018,Classe 1,Gasolina,Usados,8062786456,Renault,90 cv,13 500 km,Carrinha,,Manual,,Nacional,Sim
+1032,2019,,Híbrido (Gasolina),Usados,8069746495,MINI,224 cv,13 669 km,Utilitário,,Automática,,,Sim
+1033,2018,,Diesel,Usados,8073763577,Citroën,102 cv,36 129 km,Utilitário,,Manual,38VL58,,Sim
+1034,2016,,Diesel,Usados,8073765101,Audi,150 cv,65 812 km,Sedan,,Automática,95QU19,,Sim
+1035,2018,,Diesel,Usados,8073763705,Fiat,120 cv,82 041 km,Carrinha,,Manual,47VE98,,Sim
+1036,2017,Classe 2,Híbrido (Gasolina),Usados,8071802186,Porsche,416 cv,37 865 km,SUV / TT,,Automática,88-TA-96,Nacional,Sim
+1037,2015,,Diesel,Usados,8073765122,BMW,143 cv,147 133 km,Sedan,Série 3,Manual,08PS03,,Sim
+1038,2016,Classe 1,Gasolina,Usados,8074303353,Porsche,420 cv,30 000 km,Cabrio,911 (Todos),Automática,,,
+1039,2018,,Diesel,Usados,8072061532,Fiat,120 cv,26 064 km,Carrinha,,Manual,50VE18,,Sim
+1040,2014,,Diesel,Usados,8075646848,Smart,71 cv,30 000 km,Utilitário,,,,,
+1041,2008,,Gasolina,Usados,8065343887,Audi,272 cv,144 680 km,Coupé,,,,,
+1042,2019,Classe 1,Diesel,Usados,8072187753,Audi,190 cv,8 000 km,SUV / TT,,Automática,,Nacional,
+1043,2014,Classe 1,Gasolina,Usados,8059118298,Smart,102 cv,49 000 km,Pequeno citadino,,Automática,,Nacional,
+1044,2015,Classe 1,Diesel,Usados,8073800394,MINI,85 cv,69 911 km,Citadino,,Automática,,,
+1045,2013,Classe 1,Diesel,Usados,8074294241,Volvo,115 cv,158 200 km,Utilitário,,Manual,08-UD-16,Importado,Sim
+1046,2010,,Diesel,Usados,8073603760,Opel,125 cv,120 000 km,Utilitário,,,,,
+1047,2011,Classe 1,Diesel,Usados,8073801703,Renault,110 cv,140 000 km,Monovolume,,Manual,,Nacional,
+1048,2016,Classe 1,Diesel,Usados,8074628103,Opel,95 cv,68 500 km,Citadino,,Manual,,,
+1049,2013,Classe 1,Diesel,Usados,8074624638,Peugeot,115 cv,134 270 km,SUV / TT,,Manual,,,
+1050,2005,Classe 1,Gasolina,Usados,8066021221,Renault,105 cv,139 000 km,Carrinha,,Manual,,Nacional,
+1051,2015,,Diesel,Usados,8072102772,Renault,90 cv,160 000 km,Carrinha,,,,,
+1052,2014,,Diesel,Usados,8075646848,Smart,71 cv,30 000 km,Utilitário,,,,,
+1053,2017,Classe 1,Diesel,Usados,8074305806,Renault,110 cv,49 000 km,Carrinha,,Automática,,Nacional,
+1054,2013,Classe 1,Diesel,Usados,8059231647,Citroën,115 cv,135 751 km,Citadino,,Manual,,Importado,
+1055,2009,Classe 1,Diesel,Usados,8072479171,BMW,286 cv,85 000 km,Cabrio,Série 6,Automática,,Nacional,
+1056,2018,Classe 1,Diesel,Usados,8074629624,Kia,115 cv,31 500 km,SUV / TT,,Manual,,Nacional,Sim
+1057,2006,Classe 1,Gasolina,Usados,8068567845,Honda,140 cv,154 000 km,Utilitário,,Manual,,,Sim
+1058,2017,Classe 1,Diesel,Usados,8073767558,Mercedes-Benz,136 cv,38 300 km,Utilitário,Classe A,Automática,11-ZN-94,Importado,
+1059,2017,Classe 1,Diesel,Usados,8066343829,Mercedes-Benz,170 cv,118 500 km,Carrinha,Classe C,Automática,20-HZ-90,,
+1060,2017,Classe 1,Diesel,Usados,8074305806,Renault,110 cv,49 000 km,Carrinha,,Automática,,Nacional,
+1061,2013,Classe 1,Diesel,Usados,8071474739,Peugeot,120 cv,147 366 km,Utilitário,,Manual,,,
+1062,2018,Classe 1,Híbrido (Gasolina),Usados,8074631663,BMW,225 cv,8 200 km,SUV / TT,Série 2,Automática,,,
+1063,2012,Classe 1,Híbrido (Diesel),Usados,8073729436,Citroën,200 cv,170 276 km,Utilitário,,Automática,,,
+1064,2011,Classe 1,Diesel,Usados,8069038270,BMW,218 cv,225 809 km,Sedan,Série 5,Automática,,Nacional,
+1065,2016,Classe 1,Gasolina,Usados,8073799086,Porsche,300 cv,106 000 km,Cabrio,,Automática,,Importado,
+1066,2015,Classe 1,Diesel,Usados,8053119331,BMW,184 cv,185 000 km,Sedan,Série 4,Automática,,,
+1067,2015,Classe 1,Diesel,Usados,8064523527,Mercedes-Benz,136 cv,94 100 km,Sedan,Classe CLA,Manual,79-QF-88,Nacional,Sim
+1068,2015,,Diesel,Usados,8073798307,BMW,190 cv,72 500 km,Coupé,Série 4,,,,Sim
+1069,2014,,Diesel,Usados,8042017303,Mercedes-Benz,136 cv,175 000 km,Sedan,Classe C,,,,
+1070,2006,Classe 1,Diesel,Usados,8068675984,Jaguar,207 cv,297 975 km,Sedan,,Automática,,,
+1071,2007,,Diesel,Usados,8073607749,BMW,177 cv,286 828 km,Carrinha,Série 3,Manual,,,
+1072,2007,,Diesel,Usados,8074628633,Opel,120 cv,260 000 km,Carrinha,,,,,
+1073,2015,Classe 1,Diesel,Usados,8064523527,Mercedes-Benz,136 cv,94 100 km,Sedan,Classe CLA,Manual,79-QF-88,Nacional,Sim
+1074,2012,Classe 1,Diesel,Usados,8074695585,Audi,245 cv,98 817 km,Sedan,,Automática,,,
+1075,2014,Classe 1,Diesel,Usados,8074294351,Mercedes-Benz,258 cv,65 500 km,Sedan,Classe S,Automática,,,
+1076,2015,Classe 1,Híbrido (Diesel),Usados,8038638006,Mercedes-Benz,231 cv,135 000 km,Carrinha,Classe E,Automática,,Nacional,
+1077,2018,Classe 1,Híbrido (Gasolina),Usados,8074631663,BMW,225 cv,8 200 km,SUV / TT,Série 2,Automática,,,
+1078,2010,Classe 1,Gasolina,Usados,8074695840,Chevrolet,113 cv,160 267 km,Sedan,,Manual,,Nacional,Sim
+1079,2011,,Diesel,Usados,8073298016,Citroën,70 cv,190 000 km,Citadino,,,,,Sim
+1080,2012,,Diesel,Usados,8073792759,BMW,290 cv,282 111 km,SUV / TT,Série X,,,Importado,Sim
+1081,2006,Classe 1,Diesel,Usados,8073869823,BMW,242 cv,145 835 km,Sedan,Série 7,Automática,59-EH-27,Importado,Sim
+1082,2017,Classe 1,Diesel,Usados,8069593747,BMW,190 cv,56 100 km,Sedan,Série 5,Automática,,Nacional,
+1083,2014,Classe 1,Diesel,Usados,8074291529,Nissan,110 cv,125 000 km,SUV / TT,,Manual,,,
+1084,2017,,Diesel,Usados,8074625121,Renault,110 cv,47 000 km,Carrinha,,Automática,,,Sim
+1085,1997,Classe 1,Gasolina,Usados,8074625638,BMW,140 cv,175 000 km,Cabrio,Série Z,Manual,,,
+1086,2017,Classe 1,Diesel,Usados,8069221167,Jaguar,180 cv,52 643 km,Sedan,,Automática,,,
+1087,2015,,Diesel,Usados,8070765088,VW,120 cv,58 200 km,Sedan,,Automática,,Nacional,Sim
+1088,2016,,Diesel,Usados,8074159275,Citroën,120 cv,133 000 km,Monovolume,,Automática,,,
+1089,2018,Classe 1,Diesel,Usados,8070603527,Opel,95 cv,29 100 km,Citadino,,Manual,40-UE-70,Nacional,Sim
+1090,2016,Classe 1,Diesel,Usados,8044087532,Mercedes-Benz,136 cv,157 943 km,Carrinha,Classe C,Automática,23-XG-89,,Sim
+1091,2018,Classe 1,Diesel,Usados,8070603527,Opel,95 cv,29 100 km,Citadino,,Manual,40-UE-70,Nacional,Sim
+1092,2012,Classe 1,Diesel,Usados,8073790466,Mercedes-Benz,204 cv,114 000 km,Coupé,Classe E,Automática,,Importado,Sim
+1093,2013,Classe 1,Diesel,Usados,8068700477,Smart,54 cv,101 000 km,Cabrio,,Automática,,,
+1094,2014,Classe 1,Diesel,Usados,8074625315,Mercedes-Benz,170 cv,228 000 km,Carrinha,Classe E,Automática,,,
+1095,2016,Classe 1,Diesel,Usados,8044087532,Mercedes-Benz,136 cv,157 943 km,Carrinha,Classe C,Automática,23-XG-89,,Sim
+1096,2017,Classe 1,Diesel,Usados,8074848076,Renault,110 cv,89 820 km,Carrinha,,Manual,,Nacional,
+1097,2018,Classe 1,Diesel,Usados,8069232787,Jaguar,180 cv,39 326 km,Sedan,,Automática,00-00-00,,
+1098,2004,Classe 1,Gasolina,Usados,8053259322,Saab,175 cv,98 000 km,Cabrio,,Manual,,Nacional,
+1099,2008,Classe 1,Gasolina,Usados,8053258372,BMW,123 cv,54 300 km,Utilitário,Série 1,Manual,,,Sim
+1100,2016,Classe 1,Diesel,Usados,8069751933,BMW,190 cv,130 000 km,Carrinha,Série 5,Automática,,Importado,
+1101,2015,,Híbrido (Gasolina),Usados,8074625186,Lexus,223 cv,81 200 km,Sedan,IS,Automática,,,
+1102,2016,Classe 1,Diesel,Usados,8074626557,Renault,130 cv,94 000 km,Utilitário,,Manual,,,
+1103,2011,,Diesel,Usados,8066362884,Land Rover,245 cv,82 000 km,SUV / TT,,Automática,,Nacional,Sim
+1104,2016,Classe 1,Diesel,Usados,8073606526,BMW,190 cv,78 500 km,Carrinha,Série 5,Automática,,,
+1105,2016,,Diesel,Usados,8074159275,Citroën,120 cv,133 000 km,Monovolume,,Automática,,,
+1106,2017,,Gasolina,Usados,8068184140,Porsche,300 cv,15 000 km,Sedan,,Automática,,,
+1107,2012,Classe 1,Diesel,Usados,8010363501,MINI,112 cv,168 000 km,Carrinha,,Manual,,,
+1108,2015,,Diesel,Usados,8072102772,Renault,90 cv,160 000 km,Carrinha,,,,,
+1109,2001,Classe 1,Diesel,Usados,8074623814,BMW,220 cv,393 343 km,Carrinha,Série 5,Manual,13-57-RJ,Nacional,
+1110,2009,,Diesel,Usados,8073769221,Mercedes-Benz,108 cv,365 602 km,Monovolume,Classe B,,,,
+1111,2007,Classe 1,Diesel,Usados,8075736744,Mercedes-Benz,109 cv,212 000 km,Monovolume,Classe A,Automática,,Importado,
+1112,2005,Classe 2,Diesel,Usados,8054509535,Nissan,133 cv,103 000 km,SUV / TT,,Manual,,,Sim
+1113,2015,,Diesel,Usados,8066130709,BMW,160 cv,195 000 km,Carrinha,Série 3,,,,
+1114,2015,Classe 1,Diesel,Usados,8074688489,SEAT,110 cv,127 956 km,Carrinha,,Automática,,,
+1115,2010,Classe 1,Diesel,Usados,8071984962,Opel,130 cv,210 000 km,Carrinha,,Manual,61-JG-85,Nacional,Sim
+1116,2010,,Gasolina,Usados,8071198475,Mercedes-Benz,183 cv,59 000 km,Cabrio,Classe SLK,,,,
+1117,2016,Classe 1,Diesel,Usados,8070159439,BMW,190 cv,159 km,Carrinha,Série 5,Automática,,Importado,
+1118,2007,Classe 1,Diesel,Usados,8075736744,Mercedes-Benz,109 cv,212 000 km,Monovolume,Classe A,Automática,,Importado,
+1119,2014,Classe 1,Diesel,Usados,8068087030,BMW,187 cv,16 000 km,Carrinha,Série 3,Automática,,Importado,
+1120,2015,Classe 1,Gasolina,Usados,8071203308,Mazda,90 cv,20 000 km,Citadino,,Manual,,,
+1121,2019,Classe 1,Diesel,Usados,8073999376,Audi,116 cv,9 500 km,Utilitário,,Manual,30-XE-59,Nacional,Sim
+1122,2012,Classe 1,Diesel,Usados,8071030953,BMW,381 cv,151 000 km,Sedan,Série 5,Automática,,Nacional,
+1123,2015,,Diesel,Usados,8047093892,Mercedes-Benz,136 cv,150 000 km,Carrinha,Classe C,Manual,,Importado,
+1124,2018,Classe 1,Gasolina,Usados,8073786041,Smart,90 cv,11 230 km,Pequeno citadino,,Automática,36-UX-29,Nacional,
+1125,2017,Classe 1,Diesel,Usados,8074691757,Peugeot,100 cv,98 804 km,Carrinha,,Manual,,Nacional,Sim
+1126,2009,Classe 1,Diesel,Usados,8049972798,Kia,120 cv,189 000 km,Carrinha,,Manual,,Nacional,
+1127,2013,Classe 1,Híbrido (Gasolina),Usados,8069781642,Porsche,416 cv,76 000 km,Sedan,,Automática,,Importado,Sim
+1128,1994,Classe 1,Gasolina,Usados,8074623149,Mercedes-Benz,320 cv,151 000 km,Coupé,Classe S,Automática,,Nacional,Sim
+1129,2015,,Diesel,Usados,8075606899,BMW,163 cv,101 000 km,SUV / TT,Série X,Manual,,Nacional,
+1130,2002,Classe 1,Diesel,Usados,8074622859,Rover,136 cv,190 000 km,Sedan,,Manual,45-13-TX,Nacional,
+1131,2003,Classe 1,Diesel,Usados,8068036358,MINI,75 cv,186 000 km,Citadino,,Manual,,,Sim
+1132,2017,,Diesel,Usados,8074689931,Nissan,110 cv,24 466 km,SUV / TT,,Manual,,Nacional,Sim
+1133,2015,Classe 1,Diesel,Usados,8058698529,Audi,90 cv,123 000 km,Citadino,,Manual,,,Sim
+1134,2016,,Gasolina,Usados,8071812839,Renault,90 cv,40 000 km,Citadino,,Manual,32-RL-77,Nacional,
+1135,1993,Classe 2,Gasolina,Usados,8067205657,Mercedes-Benz,170 cv,180 000 km,SUV / TT,Classe G,Manual,,,Sim
+1136,2007,Classe 1,Diesel,Usados,8073790042,VW,170 cv,155 000 km,Carrinha,,Automática,,Nacional,
+1137,2007,,Diesel,Usados,8067315425,BMW,122 cv,191 500 km,Carrinha,Série 3,Manual,,Importado,
+1138,2016,,Híbrido (Diesel),Usados,8068067057,Volvo,285 cv,36 718 km,Carrinha,,Automática,,Nacional,
+1139,2012,Classe 1,Diesel,Usados,8073788176,MINI,90 cv,120 000 km,Utilitário,,Manual,,,Sim
+1140,2018,Classe 1,Diesel,Usados,8064751703,Mercedes-Benz,116 cv,9 500 km,Utilitário,Classe A,Automática,90-VL-60,Nacional,Sim
+1141,2018,Classe 1,Diesel,Usados,8066567011,VW,150 cv,23 643 km,Carrinha,,Automática,,,
+1142,2010,Classe 1,Diesel,Usados,8068292953,Peugeot,112 cv,225 700 km,Carrinha,,Manual,,Nacional,
+1143,2018,Classe 1,Diesel,Usados,8066567011,VW,150 cv,23 643 km,Carrinha,,Automática,,,
+1144,2011,,Diesel,Usados,8048500017,MINI,82 cv,182 300 km,Carrinha,,Manual,,,
+1145,2015,,Diesel,Usados,8048500444,Peugeot,120 cv,150 000 km,Carrinha,,Automática,,,
+1146,2003,Classe 1,Diesel,Usados,8068036358,MINI,75 cv,186 000 km,Citadino,,Manual,,,Sim
+1147,2007,Classe 1,Diesel,Usados,8060098117,Renault,130 cv,230 000 km,Carrinha,,Manual,,Nacional,
+1148,2013,Classe 1,Diesel,Usados,8066656517,BMW,313 cv,121 500 km,Sedan,Série 6,Automática,,,
+1149,2014,,Diesel,Usados,8074691572,Nissan,110 cv,102 288 km,SUV / TT,,Manual,,Nacional,Sim
+1150,2012,,Diesel,Usados,8074519845,Mercedes-Benz,170 cv,218 000 km,Carrinha,Classe E,,,,Sim
+1151,2016,,Gasolina,Usados,8071812839,Renault,90 cv,40 000 km,Citadino,,Manual,32-RL-77,Nacional,
+1152,2015,Classe 1,Diesel,Usados,8050071823,VW,150 cv,138 000 km,Carrinha,,Manual,,Importado,
+1153,2016,Classe 1,Gasolina,Usados,8067917348,MINI,232 cv,36 500 km,Coupé,,Manual,,Nacional,
+1154,2012,,Diesel,Usados,8071581470,BMW,184 cv,167 000 km,Coupé,Série 3,,,,
+1155,2015,,Diesel,Usados,8075606899,BMW,163 cv,101 000 km,SUV / TT,Série X,Manual,,Nacional,
+1156,2019,Classe 1,Gasolina,Usados,8074691184,Renault,140 cv,20 276 km,Utilitário,,Manual,,,Sim
+1157,2009,Classe 1,Diesel,Usados,8063822053,Mercedes-Benz,235 cv,183 000 km,Sedan,Classe S,Automática,,Nacional,
+1158,2017,Classe 1,Diesel,Usados,8073601719,Mercedes-Benz,110 cv,31 500 km,SUV / TT,Classe GLA,Automática,,Importado,
+1159,2019,Classe 1,Gasolina,Usados,8074691836,Ford,125 cv,20 581 km,Carrinha,,Manual,,Nacional,Sim
+1160,2016,Classe 1,Diesel,Usados,8074619122,Opel,136 cv,130 000 km,Carrinha,,Manual,,Nacional,
+1161,2013,Classe 1,Gasolina,Usados,8074689069,Fiat,70 cv,76 500 km,Citadino,,Manual,,,
+1162,2016,Classe 1,Diesel,Usados,8070754492,Skoda,90 cv,70 362 km,Citadino,,Manual,20-RA-95,Nacional,Sim
+1163,2016,Classe 1,Eléctrico,Usados,8059846732,Nissan,108 cv,42 000 km,Utilitário,,Automática,,,
+1164,2016,Classe 1,Diesel,Usados,8074688234,VW,110 cv,79 819 km,Utilitário,,Manual,,Nacional,
+1165,2015,,Diesel,Usados,8073915045,Audi,140 cv,140 000 km,Sedan,,,,,
+1166,2019,Classe 1,Diesel,Usados,8071984237,Peugeot,102 cv,14 832 km,Citadino,,Manual,,Nacional,
+1167,2017,Classe 1,Gasolina,Usados,8075708522,Ford,125 cv,35 000 km,Utilitário,,Manual,05-TV-42,Nacional,
+1168,2011,,Diesel,Usados,8072831342,BMW,150 cv,220 000 km,Coupé,Série 1,Manual,,Nacional,
+1169,2016,,Diesel,Usados,8072247321,Mercedes-Benz,170 cv,94 900 km,Coupé,Classe C,Automática,,,
+1170,2015,Classe 1,Diesel,Usados,8074689678,Fiat,120 cv,90 436 km,SUV / TT,,Manual,,Nacional,Sim
+1171,2018,,Diesel,Usados,8071139789,Jaguar,180 cv,50 000 km,Sedan,,Automática,,,
+1172,2017,Classe 1,Gasolina,Usados,8075708522,Ford,125 cv,35 000 km,Utilitário,,Manual,05-TV-42,Nacional,
+1173,2019,Classe 1,Diesel,Usados,8074622146,Peugeot,130 cv,26 000 km,SUV / TT,,Automática,28-XA-61,,
+1174,2005,Classe 1,Diesel,Usados,8073781390,Mercedes-Benz,300 cv,455 000 km,Coupé,Classe CLS,Automática,88-CN-82,Importado,
+1175,2004,Classe 1,Gasolina,Usados,8073555031,Ford,75 cv,139 000 km,Citadino,,Manual,,Nacional,
+1176,2011,Classe 1,Diesel,Usados,8073592276,Mercedes-Benz,204 cv,141 000 km,Carrinha,Classe C,Automática,,Nacional,
+1177,2015,Classe 1,Diesel,Usados,8074688488,VW,110 cv,142 297 km,Carrinha,,Manual,,Nacional,Sim
+1178,2014,,Diesel,Usados,8073441978,MINI,116 cv,65 000 km,Citadino,,,,,
+1179,2012,Classe 1,Diesel,Usados,8073783579,Ford,110 cv,146 000 km,Carrinha,,Manual,,Nacional,Sim
+1180,2014,,Diesel,Usados,8075073148,Fiat,90 cv,68 000 km,Monovolume,,,,,
+1181,2003,,Diesel,Usados,8074617999,Mercedes-Benz,177 cv,293 000 km,Utilitário,Classe E,Automática,,,
+1182,2010,Classe 1,Diesel,Usados,8073708353,BMW,143 cv,100 000 km,Citadino,Série 1,Manual,,Nacional,
+1183,2018,,Gasolina,Usados,8074688723,Ford,85 cv,46 651 km,Citadino,,Manual,,Nacional,Sim
+1184,2018,,Diesel,Usados,8071139789,Jaguar,180 cv,50 000 km,Sedan,,Automática,,,
+1185,2016,Classe 1,Diesel,Usados,8070754492,Skoda,90 cv,70 362 km,Citadino,,Manual,20-RA-95,Nacional,Sim
+1186,2016,Classe 1,Diesel,Usados,8074688560,BMW,190 cv,183 048 km,Carrinha,Série 5,Automática,,Nacional,Sim
+1187,2016,Classe 1,Diesel,Usados,8066020864,Audi,150 cv,50 000 km,SUV / TT,,Manual,,Nacional,
+1188,2006,,Diesel,Usados,8074440107,Nissan,174 cv,200 000 km,SUV / TT,,,,,Sim
+1189,2014,,Diesel,Usados,8074061781,Renault,110 cv,64 484 km,Citadino,,,,,
+1190,2015,,Diesel,Usados,8074227731,Renault,90 cv,83 000 km,Pequeno citadino,,,,Nacional,
+1191,1994,Classe 2,Diesel,Usados,8073783059,Land Rover,113 cv,300 000 km,SUV / TT,,Manual,,Nacional,
+1192,2000,,Gasolina,Usados,8073784369,Mercedes-Benz,175 cv,180 000 km,Cabrio,Classe CLK,,,,
+1193,2015,,Diesel,Usados,8073915045,Audi,140 cv,140 000 km,Sedan,,,,,
+1194,2017,Classe 1,Diesel,Usados,8074689064,Citroën,120 cv,74 816 km,Monovolume,,Automática,,,Sim
+1195,2017,,Diesel,Usados,8059948118,Mercedes-Benz,340 cv,99 999 km,Sedan,Classe S,Automática,,,Sim
+1196,2005,Classe 1,Gasolina,Usados,8073187100,BMW,507 cv,74 000 km,Sedan,Série 5,Automática,69-AT-52,Nacional,
+1197,2015,Classe 1,Diesel,Usados,8074689303,Mercedes-Benz,109 cv,100 700 km,Carrinha,Classe CLA,Manual,,,Sim
+1198,2000,Classe 1,Gasolina,Usados,8059839628,Peugeot,120 cv,140 000 km,Sedan,,Manual,,Nacional,
+1199,2014,,Diesel,Usados,8059486009,BMW,184 cv,79 430 km,Carrinha,Série 3,Automática,,Nacional,Sim
+1200,2003,Classe 1,Gasolina,Usados,8072573334,VW,65 cv,81 000 km,Citadino,,Manual,,Nacional,
+1201,2017,,Híbrido (Gasolina),Usados,8074685597,BMW,224 cv,19 500 km,Monovolume,Série 2,,,,
+1202,2002,Classe 1,Gasolina,Usados,8075106062,Skoda,180 cv,170 000 km,Sedan,,Manual,,Nacional,
+1203,2015,,Gasolina,Usados,8074684173,Abarth,150 cv,12 000 km,Cabrio,,,,,
+1204,2014,,Diesel,Usados,8069299927,Mercedes-Benz,204 cv,149 000 km,SUV / TT,Classe M,Automática,03-PH-49,,
+1205,2007,,Diesel,Usados,8074611296,Suzuki,69 cv,237 000 km,Citadino,,Manual,,Nacional,
+1206,2002,Classe 1,Diesel,Usados,8074331425,Renault,65 cv,259 000 km,Citadino,,Manual,,Nacional,
+1207,2007,Classe 1,Diesel,Usados,8066274192,Suzuki,75 cv,174 400 km,Citadino,,Manual,00-00-00,Nacional,
+1208,2015,Classe 1,Diesel,Usados,8066352186,BMW,190 cv,150 000 km,SUV / TT,Série X,Automática,,,
+1209,2017,Classe 1,Diesel,Usados,8074377269,VW,105 cv,85 150 km,Utilitário,,Manual,,,
+1210,2004,,Gasolina,Usados,8073780148,Mercedes-Benz,82 cv,72 000 km,Utilitário,Classe A,Manual,,,Sim
+1211,2015,Classe 1,Diesel,Usados,8074885708,Mercedes-Benz,116 cv,88 000 km,Carrinha,Classe C,Automática,,,
+1212,2019,,Gasolina,Usados,8073778052,MINI,102 cv,9 000 km,Carrinha,,Automática,,,
+1213,2017,Classe 1,Diesel,Usados,8074377269,VW,105 cv,85 150 km,Utilitário,,Manual,,,
+1214,2011,Classe 1,Diesel,Usados,8072762924,Smart,54 cv,109 000 km,Pequeno citadino,,Automática,,,
+1215,1995,Classe 1,Gasolina,Usados,8064927594,Saab,185 cv,220 000 km,Cabrio,,Manual,,Nacional,
+1216,2007,Classe 1,Diesel,Usados,8066274192,Suzuki,75 cv,174 400 km,Citadino,,Manual,00-00-00,Nacional,
+1217,2016,Classe 1,Diesel,Usados,8074691530,Ford,95 cv,169 000 km,Carrinha,,Manual,,Nacional,
+1218,2010,Classe 1,Diesel,Usados,8074280814,Audi,170 cv,280 000 km,Carrinha,,Automática,,Nacional,Sim
+1219,2017,Classe 1,Híbrido (Gasolina),Usados,8063769362,Mercedes-Benz,320 cv,38 000 km,SUV / TT,Classe GLC,Automática,,Nacional,Sim
+1220,2013,,Diesel,Usados,8074615793,VW,105 cv,45 000 km,Cabrio,,,,Importado,
+1221,2016,,Híbrido (Diesel),Usados,8068067559,Volvo,285 cv,39 357 km,Carrinha,,Automática,,Nacional,
+1222,2007,,Diesel,Usados,8065279951,Mercedes-Benz,163 cv,164 000 km,Sedan,Classe C,Automática,,,Sim
+1223,2010,Classe 1,Diesel,Usados,8073586856,VW,140 cv,178 000 km,Monovolume,,Manual,,Nacional,
+1224,2008,Classe 1,Diesel,Usados,8073777964,Opel,125 cv,91 000 km,Coupé,,Manual,,Nacional,
+1225,1992,,Gasolina,Usados,8075065414,Land Rover,135 cv,72 000 km,SUV / TT,,Manual,,,
+1226,2014,Classe 1,Diesel,Usados,8074535139,VW,75 cv,80 600 km,Citadino,,Manual,00-OO-00,Nacional,
+1227,2015,,Diesel,Usados,8074497367,Citroën,120 cv,166 976 km,Monovolume,,Manual,60-ZP-96,,Sim
+1228,2015,Classe 1,Diesel,Usados,8072495819,Mercedes-Benz,136 cv,112 500 km,SUV / TT,Classe GLA,Manual,,,
+1229,2015,,Diesel,Usados,8074497367,Citroën,120 cv,166 976 km,Monovolume,,Manual,60-ZP-96,,Sim
+1230,2015,Classe 1,Diesel,Usados,8074688413,Peugeot,115 cv,169 000 km,Carrinha,,Manual,,,
+1231,2014,Classe 1,Diesel,Usados,8074535139,VW,75 cv,80 600 km,Citadino,,Manual,00-OO-00,Nacional,
+1232,2013,Classe 1,Híbrido (Diesel),Usados,8051460973,Peugeot,200 cv,214 000 km,Sedan,,Automática,,,
+1233,2010,Classe 1,Diesel,Usados,8073687333,Volvo,110 cv,149 000 km,Carrinha,,Manual,,Nacional,
+1234,2007,Classe 1,Diesel,Usados,8071726529,Ford,125 cv,150 000 km,Monovolume,,Manual,,Nacional,Sim
+1235,2010,,Diesel,Usados,8074685785,MINI,112 cv,150 000 km,SUV / TT,,,,,
+1236,1992,Classe 1,Diesel,Usados,8056264836,Mercedes-Benz,127 cv,79 900 km,Sedan,,Automática,,,
+1237,2006,Classe 1,Gasolina,Usados,8066262817,Ford,80 cv,174 000 km,Carrinha,,Manual,,,Sim
+1238,2015,,Gasolina,Usados,8074603488,Alfa Romeo,240 cv,22 000 km,Coupé,,Automática,,,
+1239,2012,Classe 1,Diesel,Usados,8066692150,Ford,163 cv,197 000 km,Monovolume,,Manual,23-nd-84,Nacional,Sim
+1240,2013,Classe 1,Híbrido (Diesel),Usados,8073775586,Mercedes-Benz,231 cv,188 000 km,Carrinha,Classe E,Automática,96-OC-66,Nacional,
+1241,2009,,Diesel,Usados,8074608513,BMW,177 cv,223 000 km,Sedan,Série 5,Manual,,,Sim
+1242,2010,,Diesel,Usados,8074680343,Audi,105 cv,119 000 km,Sedan,,,,,Sim
+1243,2018,Classe 1,Diesel,Usados,8074608379,Mercedes-Benz,150 cv,110 000 km,Sedan,Classe E,Automática,,,
+1244,2019,Classe 1,Diesel,Usados,8074383609,BMW,320 cv,6 500 km,Coupé,Série 8,Automática,,,Sim
+1245,2016,Classe 1,Diesel,Usados,8075605189,Renault,90 cv,102 000 km,Carrinha,,Manual,,Nacional,
+1246,2008,Classe 1,Diesel,Usados,8072072018,Skoda,150 cv,200 000 km,Carrinha,,Manual,,Nacional,
+1247,2018,Classe 1,Diesel,Usados,8074610993,Mercedes-Benz,136 cv,78 760 km,Carrinha,Classe CLA,Manual,,,
+1248,2000,,Gasolina,Usados,8073613478,SEAT,37 cv,154 079 km,Sedan,,,,,
+1249,2015,Classe 1,Híbrido (Gasolina),Usados,8071461901,Lexus,136 cv,125 000 km,Utilitário,CT,Automática,,,Sim
+1250,2018,,Diesel,Usados,8074605377,Renault,90 cv,15 900 km,Citadino,,Manual,,,Sim
+1251,2018,Classe 1,Diesel,Usados,8059559121,Mercedes-Benz,109 cv,47 000 km,Utilitário,Classe B,Automática,04-ZC-03,Importado,
+1252,2006,Classe 1,Gasolina,Usados,8072541743,Jaguar,400 cv,172 000 km,Sedan,,Automática,,,
+1253,2017,Classe 1,Gasolina,Usados,8064534057,MINI,136 cv,43 250 km,Utilitário,,Manual,32-ZH-34,,
+1254,1999,Classe 1,Diesel,Usados,8073775464,Audi,110 cv,400 000 km,Sedan,,Manual,,,
+1255,2015,Classe 1,Diesel,Usados,8072476217,Peugeot,120 cv,157 000 km,Carrinha,,Manual,,Importado,
+1256,2005,Classe 1,Diesel,Usados,8073776270,Ford,130 cv,194 200 km,Monovolume,,Manual,,Importado,
+1257,2010,Classe 1,Diesel,Usados,8073777433,VW,105 cv,197 303 km,Utilitário,,Manual,,,
+1258,2016,Classe 1,Híbrido (Diesel),Usados,8075647710,Volvo,285 cv,100 040 km,Carrinha,,Automática,65-SC-38,Nacional,
+1259,2011,Classe 1,Diesel,Usados,8054546447,Audi,170 cv,126 500 km,Coupé,,Manual,,,
+1260,2017,Classe 2,Diesel,Usados,8074386187,Maserati,275 cv,42 000 km,SUV / TT,,Automática,,,Sim
+1261,2014,,Diesel,Usados,8073589141,Mercedes-Benz,250 cv,180 000 km,Sedan,Classe S,Automática,,,Sim
+1262,2016,Classe 1,Diesel,Usados,8074223217,Renault,110 cv,109 206 km,Carrinha,,Manual,00-00-00,,Sim
+1263,2014,Classe 1,Diesel,Usados,8069520208,VW,150 cv,49 500 km,Sedan,,Automática,,Nacional,
+1264,2016,Classe 1,Híbrido (Diesel),Usados,8075647710,Volvo,285 cv,100 040 km,Carrinha,,Automática,65-SC-38,Nacional,
+1265,2017,Classe 1,Diesel,Usados,8074539386,Fiat,95 cv,42 000 km,Carrinha,,Manual,,Nacional,
+1266,2015,,Gasolina,Usados,8074680744,Abarth,160 cv,87 850 km,Citadino,,Manual,,,
+1267,2007,,Gasolina,Usados,8074272975,Porsche,245 cv,58 000 km,Coupé,,Manual,,,
+1268,2017,Classe 1,Híbrido (Gasolina),Usados,8064617554,BMW,252 cv,27 500 km,Sedan,Série 5,Automática,,Nacional,Sim
+1269,2009,,Diesel,Usados,8068123594,VW,140 cv,165 000 km,Carrinha,,,,Nacional,Sim
+1270,2016,Classe 1,Diesel,Usados,8075605189,Renault,90 cv,102 000 km,Carrinha,,Manual,,Nacional,
+1271,2011,Classe 1,Diesel,Usados,8060305023,Mercedes-Benz,170 cv,245 000 km,Carrinha,Classe C,Manual,,,
+1272,2007,,Diesel,Usados,8056413009,Peugeot,90 cv,249 845 km,Carrinha,,Manual,,Nacional,
+1273,1999,,Gasolina,Usados,8074273222,Mercedes-Benz,205 cv,120 000 km,Carrinha,Classe E,,,,
+1274,2011,,Diesel,Usados,8068002575,Nissan,110 cv,98 000 km,SUV / TT,,Manual,,Nacional,Sim
+1275,2008,Classe 1,Diesel,Usados,8074610986,Mercedes-Benz,235 cv,245 000 km,Sedan,Classe S,Automática,75-FQ-01,Nacional,
+1276,2017,Classe 1,Diesel,Usados,8074539386,Fiat,95 cv,42 000 km,Carrinha,,Manual,,Nacional,
+1277,2016,Classe 1,Diesel,Usados,8074223217,Renault,110 cv,109 206 km,Carrinha,,Manual,00-00-00,,Sim
+1278,2005,Classe 1,Diesel,Usados,8073953043,Mercedes-Benz,204 cv,340 000 km,Sedan,Classe S,Automática,98-cf-03,Nacional,
+1279,2010,,Diesel,Usados,8073774242,Audi,170 cv,195 000 km,Coupé,,,,,
