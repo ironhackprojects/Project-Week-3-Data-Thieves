@@ -1,4 +1,6 @@
-year,gas,diesel,electric,GPL,hybrid,CNG
+,gas,diesel,electric,GPL,hybrid,CNG
+,fuel_type,fuel_type,fuel_type,fuel_type,fuel_type,fuel_type
+year,,,,,,
 1923,1.0,0.0,0.0,0.0,0.0,0.0
 1930,1.0,0.0,0.0,0.0,0.0,0.0
 1931,1.0,0.0,0.0,0.0,0.0,0.0
